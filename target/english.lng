@@ -1,0 +1,1210 @@
+?[FILE]
+Icon=0000010001001010000001001800680300001600000028000000100000002000000001001800000000004003000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000AF62289C5F47B45C1FBF5B07BC5601BE6A25937B850720CE071FCB7D6C8EB05F29B14A01AE4A06A44B1F8C4F489A4720B97F5399A2CAA092A3CF7D31E67400E58D28B6A19D1749F31648F49D95B1D68330DB6B00C6752F9C8C9F8A94CAA86748C37230D0B494AEBCDEAA9FAED3833AF79520C1AAA01E55FB1D54FCA7A0B7E58A2AD27E35A797A69FAEDFC0AA9CAB5422C6630FE88F29D8B285B3B8D3AB9BA9D09866C7AC9A2257FA2155FBACA1B2CD9768AA949FA2AAD6C6A793D6812EAC4405CF7E2FEE9126FBAD42E7CEADBCC5E6C2BCCACBBEBE275AFC2658FCB3B0CABBB5C4B0BBE1D1C1B7EEA54CDD7F21B76224A48C8DC1A796C8A98ECEBAADBEC4E2B2C5FC9FB5FA2E5FFE2C5CFE90A8F697ADF7AAB7E5C2B2B2B79786AE938E907179133EEB265BF82C62FB3063FC3364FE3465FE3566FE3566FE3363FE2C5DFE2557FE2053FE1A4EFC134AFB0D41F30A1EC81640EB295DF92F64FC3466FD3869FE386AFF396AFF3A69FF3666FE2E5FFE275AFE2154FE1B4EFD144BFB0E43F40921C99D8FA0BAAAAAC3ACA1CCC2C3B9C5EFA9C0FF9DB7FF3A6AFF3567FE8EA9FA8FA9FBA1B2ECB9B1BFAD9798A4949E897488D08438F0992FFFB955E9D7BDBCC8EEC4C1D1D1CAC6386AFC3466FCB9B7CDB9B3C4AAB6E3CEC2BFEEAA58DC8229B9692CCF6E0FF49D33E1BD8FBABFD6B4A4AADAA96CD6BEA23669FA3265FBB8ADB5D59D68AE9699A5ACD2CAAC96E08830B84E04CE8135D8C1A4B3C0DFB4A6AAE19239FFA622D2BBA73469FB3164FCB5ADBCF1952CDE862FAD999D9EAEDAC4AF9FB96224C8905D9AA5C9AC999DDE8C2FF68601F49D2CC8B2A42D60F72B5CF7ADA5BAE29135E87802D47F29A68F908995C8B8794AC07835AE754FC2722ECE7114CE6D0CD08231A692961740E7173CE48F86A6C17738C4630CC06413B4652BA16749AC6029000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FFFF00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FFFF0000
+AUTHOR=Andrey Saitgalin (andrey.saitgalin@gmail.com)
+Name=English (EN)
+VersionID=3006
+Help=AIMP3-en.chm
+
+[CONTEXT]
+0=Open with AIMP3
+1=Play
+2=Add to playlist
+3=Add to queue
+4=Add to bookmarks
+5=Edit tags
+
+[Templates]
+%A=%A - Album
+%B=%B - Bitrate
+%C=%C - Channels
+%D=%D - File Path
+%E=%E - Extension
+%F=%F - File Name
+%G=%G - Genre
+%H=%H - Sample Rate
+%L=%L - Duration
+%R=%R - Artist
+%S=%S - File Size
+%T=%T - Title
+%Y=%Y - Date
+%M=%M - Rating
+%PD=%PD - Parent Directory
+%IN=%IN - File Index in playlist
+%NL=%NL - New Line (only for TrackList)
+%DC=%DC - File creation date
+%TC=%TC - File creation time
+%DN=%DN - Disk Number
+%TN=%TN - Track Number
+%IF()=%IF(A, B, C) = C, if "A" is empty
+%Up()=%Up(), ALL LETTERS IN UPPER CASE
+%Low()=%Low(), all letters in lower case
+%Caps()=%Caps(), All Words With Capital Letter
+%Char()=%Char(X), Char with code X
+%Replace()=%Replace(A, B, C), A - source string, B/C - what to replace/replace with
+
+[Updater]
+Caption=Update Checker
+L1=Your version:
+L2=Latest version:
+L3=Manual update checking
+L4=New version available: %s
+CB1=Don't remind about this version
+B1=Check for updates
+B2=Download
+B3=Close
+
+[MSG]
+1=New playlist
+2=Enter name
+3=Device safely remove
+4=This operation will remove files from hard drive! Proceed?
+5=(disabled)
+6=File or folder not found!
+7=Minimize to tray
+8=Show main window
+9=Rename
+10=Volume
+11=Position
+12=Play
+13=Play from the beginning
+14=Pause
+15=Repeat
+16=Shuffle
+17=Off|On
+18=Send files
+19=This hotkey is either invalid or already assigned to another application
+20=Use multimedia keys?
+21=Defined by main window position
+22=Write to file
+23=Preview
+24=Topmost
+25=Couldn't save changes in file "%s", maybe it is locked by another application.
+26=Apply changes to files?
+27=Composer
+28=Secondary|Primary
+29=Folder "%s" doesn't exist
+30=Couldn't remove one of the plugins, maybe it is used by application:
+31=Done...
+32=Single playlist mode:\nCouldn't change playlist because it is locked!
+33=Search
+34=Select folder
+35=(Show all)
+36=Move here
+37=Locked
+38=This option disables the ability to make more than one playlist\nIf you select this option other playlists tabs will be automatically closed!
+39=Quality
+40=Continue?
+41=Get cover art
+42=Format:
+43=(Default)
+44=Speed
+45=Balance
+46=Connecting...
+47=Radio Capture
+48=Title
+49=Register
+50=This key is already used!
+51=Jump to time:
+52=Invalid format
+53=New version is available. Download it now?
+54=Sound fonts
+55=Current value:
+56=for sorting by folders use "\" symbol in template
+57=Are you sure you want to reset the stats?
+58=New template
+59=Filter
+60=Couldn't find appropriate groups.\nDo you want to create it?
+61=Operation hasn't finished yet. Do you want to finish it?
+62=Some operations haven't finished yet! Do you want to cancel them?
+63=File search:
+64=Size:
+65=Creation date:
+66=New folder
+67=Updating...
+68=Done!\nNew database size: %s\nSaved: %s.
+69=Apply
+70=Cancel
+71=Include subfolders
+72=File type
+73=Loading...
+75=Sort by template
+76=Current file:
+77=Autosearch
+78=New files:
+79=Transparency
+80=Preview
+81=Lyrics:
+82=File location
+83=Copyright
+84=WMA can't contain images bigger than 60 Kb
+85=Rating
+86=Copy
+87=Paste
+88=Cut
+89=Source
+90=Result
+91=Tag not found. File will not be renamed
+92=Press ESC to cancel
+93=%s free of %s
+94=Repeat part "A-B" [off]|Point "A" assigned|Repeat part "A-B" [on]|
+95=Reconnection in %s sec
+96=Warning! This operation will reset presets list to default!
+97=Save player state on close
+98=Use Tray Control instead of minimizing to tray
+99=Presets editor
+100=Album
+101=URL
+102=Artist
+103=Title
+104=Comment
+105=Genre
+106=Remove tag
+107=Year
+108=Track #
+109=Disc #
+110=Album cover
+111=Sound fonts not found or invalid.
+112=<none>
+113=Done!
+114=This operation will remove all files and statistic from database! Continue?
+115=Duration
+116=File
+117=Played
+118=Added
+119=Rating
+120=Playlist list
+121=Delay:
+122=Close
+123=Copy file to clipboard
+124=Open tag editor
+125=Swap Channels
+126=Voice remove filter (only for stereo)
+128=Copy to...
+129=Autofilling (RMB - template selection)
+130=Ensemble
+131=Converting:
+132=Rename
+133=Settings
+134=Paused
+135=Resize
+
+[ConfirmDialog]
+Caption=Replace
+gbFile1=Replace file
+gbFile2=By new file
+B1=Replace
+B2=Replace All
+B3=Skip
+B4=Skip All
+B5=Rename
+B6=Cancel
+
+[About]
+Caption=About
+L1=Support:
+L2=Author:
+L3=Promoter:
+L4=Designer:
+L5=License
+L6=Changelog
+B1=Close
+
+[AIMP]
+DSP1=Sound Effects
+DSPManager=DSP Manager
+MiscBtn.h=Misc menu
+AddBtn.h=Add items menu
+DelBtn.h=Remove items menu
+SortBtn.h=Sort items menu
+PlayerAbout=$About->Caption
+PlaylistPlayLast=Play last playlist
+btnPlaylistsListMenu.h=$MSG->120
+QueueAddTo=Add to queue
+AddBkAct.h=Add bookmark
+AddFiles.h=$N93
+AddFiles=Files
+AddFolder.h=Add Folder
+AddFolder=Folder
+AddPlaylist.h=Add Playlist
+AddPlaylist=Playlist
+AddURL=URL
+AddURL.h=Add URL
+OptionShutdown.h=Auto shutdown options
+OptionShutdown=Auto shutdown
+CategoryMenu=Category
+CategoryOptions=Options
+ClearPls=Clear playlist
+QueueClear=Clear queue
+CloseApp.h=Close AIMP3
+CloseBtn.h=Close
+ClosePls=Close playlist
+CloseOtherPls=Close other playlists
+CM_DEL=Remove from playlist
+CM_Find=Search new files
+CM_SEL=Select files
+CopyInfoAct.h=Copy file info to clipboard
+CpySelToCpbrd=Copy selected files to clipboard
+CountLabel.h=Files count in playlist
+CurFileInfo=Current file info
+CtrlRepeatAB=Repeat part "À-B"
+Del_all=Remove all
+Del_bad=Remove missing
+Del_CurRecycle=Physically remove currently playing file
+Del_NonSel=Remove all files except selected
+Del_off=Remove disabled files
+Del_offRecycle=Physically remove disabled files
+Del_poftor=Remove duplicates
+Del_Recycle=Physically remove selected files
+Del_Sel=Remove selected files
+DSPCfg.h=DSP-Plugin options
+DSPCtrls.h=Active DSP-Plugin
+EQBtn.h=Equalizer (show/hide)
+QueueExFrom=Remove from queue
+File2Clipbrd.h=Copy file to clipboard
+FileFolder=$MSG->82
+FileInfo_=File info
+FindFull=Advanced search
+FindNext=Continue search
+FindQuick=Quick search
+VisualFullScreen.h=Fullscreen visualization mode
+VisualFullScreen=Fullscreen
+HelpBtn=Help
+OptionHotkeys.h=Hotkeys options
+OptionHotkeys=Hotkeys
+CtrlInsAfterCurrent=Insert after current
+ItmEQPos=Show equalizer on the left
+Jump2begin=Jump to the beginning of playlist
+Jump2end=Jump to the end of playlist
+CtrlJumpToTime=Jump to time
+OptionLangs.h=Language settings
+OptionLangs=Language
+PlsManBtn.h=Playlist management
+CtrlLeftPos.h=Seek backward
+LengthLabel.h=Total playlist duration
+MenuBtn.h=Main menu
+miSortByPatternOptions=Options
+PlsOpt.h=Quick settings
+UtilsAudioLibrary=Audio Library
+N20=Queue
+N21=$MSG->18
+N22=Tray
+N31=Visualization mode
+N35=Show window
+N36=Equalizer
+N37=Visual window
+N38=(hide all)
+N40=Visualization
+N41=Skins
+N43=Help
+N47=Exit
+N56=Utils
+N57=Exit
+N6=Rescan tags
+N70=Suspend hotkeys
+N75=Utilities
+N79=Show current
+N80=Load preset
+N81=Save preset
+N83=Reset all effects settings
+N84=Reset equalizer settings
+N85=Minimize all
+N86=Maximize all
+N90=Player
+N91=Play/Pause
+N92=Stop
+N93=Add Files
+N95=Previous track
+N96=Next track
+N98=Volume
+N114=Merge with similar categories
+N115=Merge all similar categories
+NewPls=New playlist
+CtrlNextTrack=Next file
+NextPlaylist.h=Next playlist
+VisualNormal.h=Normal visualization mode
+VisualNormal=Normal
+OpenFiles.h=Open file(s)
+OpenFiles=Open files
+OpenPls.h=Open playlist
+OpenPls=Open playlist
+OpnAct.h=Open files and play
+OpnDir=Open directory
+Options=Preferences
+PauseBtn.h=Play
+PlayerPlsSwitch=Show/Hide playlist
+PlayerPlayPause=Play/Pause
+PlayBackMode.h=Playback mode
+PlayBtn.h=Play
+PlayCurrentTrack.h=Play selected file
+PlayCurrentTrack=Play
+PlayPauseAct.h=Play/Pause
+PlsBtn.h=Playlist (show/hide)
+OptionPlugins.h=Plugins settings
+OptionPlugins=Plugins
+CtrlPrevTrack=Previous file
+PrevPlaylist.h=Previous playlist
+QueryQueueMan=Queue manager
+CtrlRadioCap.h=Radio capture (On / Off)
+CtrlRadioCap=Radio capture
+RenamePLS=Rename playlist
+CtrlRepeat.h=Repeat file (On / Off)
+CtrlRightPos.h=Seek forward
+SavePls=Save playlist
+SelAll.h=Select all files
+SelAll=Select all
+SelNone.h=Deselect all files
+SelNone=Deselect files
+SendToOutDir=$MSG->128
+SendToLastPath.h=Copy currently playing file into last selected folder
+SendToRadioCat=Radio station list
+SendToRadioCat.h=Add to radio station list
+Send2Pls=Send to another playlist
+CtrlShuffle.h=Shuffle (On / Off)
+SizeLabel.h=File size in playlist
+SentToNewPLS=To new playlist
+OptionSkins.h=Interface settings
+OptionSkins=Skins
+SortByArtist=Sort by artist
+SortByDuration=Sort by duration
+SortByFName=Sort by folders
+SortByTitle=Sort by title
+SortInvert.h=Sorting: invert
+SortInvert=Invert
+SortRandomize.h=Sorting: randomize
+SortRandomize=Randomize
+PlayerMinimize.h=Minimize / Maximize
+PlayerStayOnTop.h=Stay on top (On / Off)
+PlayerStop.h=Stop playback
+PlayerStopAtEnd.h=Stop playback after current file
+Stopbtn.h=Stop
+SendToTagEditor.h=Send to tag editor
+UtilsTagEditor=Tag Editor
+SendToTagEditor=Tag editor
+TL=Save tracklist
+ToTrayBtn.h=Minimize
+TrayCotnrol=Show Tray Control
+Utils.h=Utilities
+UtilsRadioBrowser=Internet Radio Browser
+VisualNext.h=Next visualization
+VisualPrev.h=Prev visualization
+VisualBtn.h=Visualization menu
+VolMinus.h=Volume: down
+VolPlus.h=Volume: up
+VolumeDown.h=Volume -
+VolumeMute.h=Mute (On / Off)
+VolumeUp.h=Volume +
+TCFixFloat=Pin information bar
+miPersonalSettings=Personal settings
+DockingLeftEdge=Dock to left screen side
+DockingRightEdge=Dock to right screen side
+DockingUndock=Custom mode
+DockingFix=Pin window
+miSelectPls=Select playlist
+TCN.h=Scroll tabs forward
+TCP.h=Scroll tabs backward
+EQSwitch.h=Equalizer (On / Off)
+
+[InfoBar]
+P1=Information Bar
+CB1=Show current file info on playback start
+CB2=By left|By right|By center
+CB3=Show at desktop top|Show at desktop bottom
+CB4=Show album cover
+CB6=Show in fullscreen applications
+CB7=Apply only to background
+L3=Show time:
+L5=Text align:
+GB2=View options
+GB4=Infobar template
+
+[LastFM]
+C1=Last.fm Scrobbler
+GB1=Authorization
+GB2=Scrobbling
+GB3=Status
+
+[Options]
+Caption=Options
+bAbout=$AIMP->PlayerAbout
+bCancel=Close
+bOk=Apply
+
+[OptionsFrameHotkeys]
+Caption=$C1
+C1=Hot keys
+CB64=$AIMP->N70
+c[0]=Command name
+c[1]=Local
+c[2]=Global 1
+c[3]=Global 2
+B10=Default
+
+[OptionsFrameSkins]
+Caption=$C1
+C1=Skins
+B2=Apply
+
+[OptionsFrameAssoc]
+Caption=$C1
+CB1=Audio Files
+CB2=Playlists
+CB3=Skins
+C1=File associations
+B8=Apply
+B9=Remove
+
+[OptionsFrameTemplate]
+Caption=Templates
+C13=Running line
+CB75=Cyclical
+GB1=Running line animation
+GB3=Running line template
+GB15=Copy into clipboard template
+L10=Update interval:
+L35=Appearing:
+L36=Movement:
+
+[OptionsFrameTemplate.rsShow]
+i[0]=Disabled
+i[1]=Left
+i[2]=Right
+i[3]=Top
+i[4]=Bottom
+
+[OptionsFrameTemplate.rsRun]
+i[0]=Disabled
+i[1]=Left
+i[2]=Right
+
+[OptionsFrameTray]
+Caption=Tray
+C15=General
+C16=File info
+C17=Mouse control
+CB13=Show file info at mouse focus
+CB14=Always show tray icon
+CB61=Show Tray Control at minimizing to tray
+CB62=Show player status
+CB63=Minimize to tray
+L30=One click:
+L31=Double click:
+L32=Middle click:
+L34=Showing delay:
+
+[OptionsFrameTray.TrayCmd]
+i[0]=(disabled)
+i[1]=Show/Hide
+i[2]=Move to the top
+i[3]=File info
+i[4]=AIMP Volume controller
+i[5]=Play/Pause
+i[6]=Add and play files
+i[7]=Next file
+i[8]=Prev file
+
+[OptionsFrameMediaLib]
+Caption=$C1
+C1=Audio Library
+CB1=Allow statistics
+CB2=Automatically add files to database
+CB3=Automatically add files from removable drives to database 
+GB1=Listenings count
+L1=File means played if played:
+L2=Minimal file duration:
+
+[OptionsFrameIntegration]
+Caption=$C14
+C14=Integration
+CB23=Add to explorer context menu
+CB24=Add to CD/DVD autorun menu
+CB40=Add link to "Run" menu
+CB41=Add to default applications list
+CB60=Autorun
+CB72=Show playing progress
+CB73=Show player status on taskbar button
+CB74=Show progress bar in taskbar
+L29=Taskbar (only for Windows 7)
+
+[OptionsSoundOutFrame]
+Caption=Playback
+C1=Playback options
+CB1=Allow advanced channels processing
+CB2=Logarithmic volume slider
+L1=Sound output type:
+L2=Device:
+L3=Parameters:
+L4=Cache size:
+L5=Select the channels, which will be used by the program for output
+
+[OptionsFrameLang]
+Caption=Language
+C1=Select interface language
+L1=Convert non-unicode strings equal to
+L2=Primary
+L3=Additional
+L4=Old
+
+[OptionsFrameAutomatic]
+Caption=Automatics
+C7=$Caption
+C8=On end of playlist
+C12=On program start
+CB5=Minimize to tray
+CB7=Repeat playlist with one file
+CB32=Auto-adjust equalizer preset for a track
+CB48=Save player state during the playlist navigation via "next / previous file" buttons
+CB58=Automatically jump to next track
+L5=$L15
+L15=Action:
+
+[OptionsFrameAutomatic.RG1]
+i[0]=Start playback
+i[1]=Resume player state
+i[2]=None
+
+[OptionsFrameAutomatic.RG2]
+i[0]=Jump to next playlist
+i[1]=Repeat playlist
+i[2]=Stand by
+
+[OptionsFrameAddFiles]
+Caption=Files adding
+C9=General
+C10=Open files from external applications
+C11=Drag and drop
+CB1=Ask user
+CB9=Play opened file immediately
+CB15=Play added files immediately
+CB19=Begin playback immediately
+CB47=Add to current playlist if one file is sent
+CB59=Sort by file name
+L1=Default action:
+L7=When files are being opened:
+CB6=Autoscan playlist when adding files
+CB69=Expand files by CUE file at adding to playlist
+CB8=Ask playlist name at creation
+
+[OptionsFrameAddFiles.CBA]
+i[0]=Create new playlist
+i[1]=Add to current playlist
+i[2]=Add to empty playlist "Default"
+
+[OptionsFrameAddFiles.RG4]
+i[0]=Add files to current position
+i[1]=Add files to end of playlist
+i[2]=Add files to beginning of playlist
+i[3]=Add and mix files in playlist
+
+[OptionsFrameFace]
+Caption=Interface
+C2=Interface options
+C3=Transparency
+L1=Only for Windows 7 or higher.\nSkin must support blur behind too.
+CB1=Allow per-pixel semitransparency
+CB2=Allow blur behind
+CB27=Allow equalizer window animation
+CB28=Allow visual display animation
+CB30=Allow buttons fading effect
+CB35=Smooth playlist tabs scrolling
+CB52=Magnet windows to screen edges and other AIMP's windows
+CB53=Allow player window animation in desktop toolbar mode
+CB38=Disable transparency if window is active
+CB39=Disable transparency if window is mouse focused
+CB42=Smooth transparency
+
+[OptionsFramePlaylist]
+Caption=Playlist
+C19=Scroll playlist items with mouse wheel
+L12=Normal scroll
+L18=Scroll with "%s" pressed
+C5=Saving
+C6=Behaviour
+L11=$MSG->38
+CB2=Open bookmarks in new playlist "Bookmarks"
+CB3=Save absolute file paths (recommended)
+CB4=Save playlist "Default"
+CB31=Save queue at application exit
+CB43=Always save playlists to user profile folder
+CB46=Close playlist by double-click on tab
+CB56=Ask for confirmation when removing files from hard drive
+CB57=Single playlist mode
+CB22=Stop playback if current file was deleted
+
+[OptionsFramePlaylistView]
+Caption=$C1
+C1=Appearance options
+gbLayoutSettings=Layout Settings
+gbGrouping=Grouping Settings
+gbFormating=Format Settings
+cbShowNumbers=Show track number
+cbAbsoluteNumeration=Absolute Numeration
+cbShowSwitches=Show switches column
+cbShowDuration=Show duration column
+cbShow2ndLine=Show second line with info
+cbShowExpandBtns=Show groups expand buttons
+cbShowMarks=Show rating
+cbReadOnly=Lock from changes
+cbGroupMode=Enable groups
+cbMergeGroups=Merge similar categories automatically
+CB50=Show information about selected files
+ddZoom=Zoom
+bCancel=Cancel
+bOk=Ok
+
+[OptionsFrameNet]
+Caption=Connection options
+CB1=Use direct connection
+CB2=Use system defaults
+CB3=Manual proxy confiration
+C21=Internet connection options
+L1=User-Agent:
+L79=Timeout:
+L81=Buffer size:
+L98=Password:
+L106=Server:
+L107=Port:
+L108=User:
+
+[OptionsFrameSoundEffects]
+Caption=$C24
+bDSPMan=$AIMP->DSPManager
+C1=Mixing settings
+C24=Sound effects
+CB1=Do nothing
+CB2=Add pause between tracks
+CB27=Use sound fading (Pause / Unpause)
+CB29=Use sound fading on navigation within track
+CB34=Mix next track with previous track
+CB36=Fade in volume at the beginning of track
+CB76=Smooth volume changing
+
+[OptionsFrameRadioCap]
+Caption=$C22
+C22=Internet radio capture
+CB65=Capture stream without transcoding (only for MP3 / AAC / AAC+)
+CB66=Write tags to file
+CB67=Write CUE-log
+GB6=Capture options
+GB9=Split to files
+L13=Time:
+L24=File name template:
+L25=Size:
+L85=Save to folder:
+
+[OptionsFrameRadioCap.cbBreakType]
+i[0]=Split by tracks
+i[1]=Split by size
+i[2]=Split by time
+
+[OptionsFramePlayer]
+Caption=Player
+C18=Misc
+C20=Controlling
+CB10=Allow current file information scrolling
+CB11=Show current track information in taskbar
+CB18=Prevent display from powering off
+CB20=Show splash screen at startup
+CB21=Stay on top
+CB33=Show button in taskbar
+L14=Change position when pressing hotkey with
+L16=Change volume when pressing hotkey with
+L33=Middle click:
+L99=Priority
+GB4=Control player by hotkeys
+GB5=Control by mouse
+
+[OptionsFramePlayer.MOBox]
+i[0]=(none)
+i[1]=Play/Pause
+i[2]=Add files
+
+[OptionsFrameSort]
+Caption=$MSG->75
+PanelSort=$Caption
+
+[OptionsFrameTrackList]
+Caption=Tracklist export
+C4=Tracklist export options
+L26=Default template:
+L27=Pattern:
+CB54=Export hidden playlist items
+CB55=Export playlist categories
+
+[OptionsFramePlugins]
+Caption=Plugins
+L1=Plugins
+L2=Components
+L3=Configure
+L4=$MSG->35
+L5=* Plugin will be unloaded at next program start
+N1=Remove
+N2=Load selected
+N3=Load all
+N4=Unload selected
+N5=Unload all
+
+[OptionsFrameVisual]
+Caption=$C23
+C23=Visualization
+CB68=Use smoothing
+CB71=Change visualization every:
+GB10=Visualizations changing
+GB7=Fullscreen mode
+L17=Fullscreen buffer size:
+L20=[!] Some plugins can be unstable in high resolution mode
+L21=Start fullscreen mode on display:
+L23=[!] It will render more slowly but render better image when zooming
+
+[SearchForm]
+Caption=Advanced search
+CB1=Search in titles
+CB2=Search in artists
+CB3=Search in albums
+CB4=Search in genres
+CB5=Search in file names
+CB6=Autosearch
+B1=Search options
+B2=Close
+L1=(All)
+N1=Play
+N2=Jump to beginning
+N3=$AIMP->QueueAddTo
+N6=$AIMP->N79
+N7=$AIMP->Send2Pls
+N8=$AIMP->CtrlInsAfterCurrent
+N9=$AIMP->QueryQueueMan
+N10=$AIMP->Del_Sel
+N11=$AIMP->Del_Recycle
+
+[BMForm]
+Caption=Bookmarks manager
+L1=Bookmarks editor
+L2=Title
+L3=File/folder path
+L4=Position (sec)
+B1=Add to playlist
+B2=Play
+B3=Remove
+B4=Edit
+B5=Add bookmark
+B6=Close
+btnOk=Save
+N1=File
+N2=Folder
+
+[BMForm.TableView]
+c[0]=Title
+c[1]=$BMForm->L3
+c[2]=Position
+
+[PLS]
+N17=$MSG->18
+N20=Removal
+N22=Enable
+N23=Disable
+N3=Add
+N36=Bookmarks
+N37=Add
+N39=Edit
+
+[DropForm]
+CB1=Don't ask again
+RG1=Ïåðàöÿãíóöü
+
+[RadioCat.lvView]
+c[0]=Name
+c[1]=Now playing
+c[2]=Genre
+c[3]=Bitrate
+c[4]=Format
+
+[RadioCat]
+Caption=Internet Radio Browser
+acNew=New Item
+acEdit=Edit
+acDelete=Delete
+acFavorites=Add to favourite list
+bAddToPlaylist=Add to playlist
+bOk=Ok
+bCancel=Cancel
+bPlaySelect=Play selected
+bRefresh=Refresh
+cbIncludeGenre=Include genre filter
+lbGenre=Genre:
+lbLink=URL:
+lbName=Name:
+lbType=Format:
+
+[Scheduler]
+Caption=Scheduler
+L1=Time:
+L2=Wake up
+L3=Files count to play before action:
+L4=Select file to play:
+L5=[!] You can drag file from playlist or explorer to text field
+CB1=Smooth volume changing
+CB2=Alarm
+CB4=Volume increasing for:
+A1=Shutdown
+A2=Sleep
+A3=Close application
+A4=Pause playback
+B1=At time
+B2=At the end of playlist
+B3=At the end of queue
+B4=At the end of file
+R1=At chosen time
+R2=At elapsed time
+S1= sec.
+
+[AddLinkDialog]
+Caption=Add link
+lbLink=Streaming link:
+lbName=Name:
+lbLinkToBrowser=Internet Radio Browser
+
+[DSPDialog]
+Caption=$AIMP->DSPManager
+RGN=Normalize volume
+R1=Normalize by amplitude
+R2=Use value from tags
+R3=Analyse file "on-the-fly"
+CB1=Remove silence longer than 0.5 sec
+CB2=Amplitude limiter (not recommended)
+L1=* You can reset values by mouse right-click
+L2=DSP Plugins:
+lbEcho=Echo
+lbReverb=Reverb
+lbFlanger=Flanger
+lbChorus=Chorus
+lbTrueBass=Bass
+lbEnhancer=Enhancer
+lbSpeed=Speed
+lbTempo=Tempo
+lbPitch=Pitch
+btnOk=$msg->122
+
+[DSPDialog.cbSource]
+i[0]=Source: File
+i[1]=Source: Album
+
+[EQPresetsDialog]
+Caption=Equalizer presets
+B1=Apply
+B2=Cancel
+B3=Delete
+B4=Restore
+
+[QueueDialog]
+Caption=Queue manager
+L1=Total time:
+CB1=Pause
+B1=$AIMP->Del_all
+B2=$AIMP->Del_Sel
+B3=$AIMP->SavePls
+B4=$AIMP->CloseBtn.h
+
+[QueueDialog.ListView]
+c[0]=Number
+c[1]=File name
+c[2]=Playlist
+c[3]=$MSG->115
+
+[QTEForm]
+Caption=Quick Tag Editor
+bSave=Save
+bClose=$MSG->122
+LoadCover=Load
+SaveCover=Save
+T1=Basic
+T2=Lyrics
+T3=CUE
+T4=Information
+
+[EditorForm.RegisterFmt]
+i[0]=Without changes
+i[1]=All words with capital letter
+i[2]=First word with capital letter
+i[3]=All in upper case
+i[4]=All in lower case
+
+[ATEForm]
+Caption=AIMP3: Advanced Tag Editor
+A1=Autonumeration (XX)
+A2=Renaming
+A3=$AIMP->FileFolder
+A4=$AIMP->AddFiles.h
+A5=$AIMP->AddFolder.h
+A6=Edit
+A7=Select all
+A8=Remove selection
+B2=Options
+B4=Close
+B5=Refresh tags
+aTag.h=Autofilling
+miDelete=Delete
+miDeletePhys=Delete physically
+aSave=Save
+btnRG.h=Replay Gain
+miNum1=Change to format "X"
+miNum2=Change to format "XX"
+miNum22=Change to format "XX/XX"
+miNum22A=Autonumeration (XX/XX)
+miNumCfm=Ask confirmation
+miSoundOut=Playback options
+miRgFile=Scan selected: without album
+miRgAlbum=Scan selected: as one album
+miRgMAlbum=Scan selected: get album from tags
+miRgRemove=Remove ReplayGain info from tags
+TM0=Files, located on hard drive
+TM1=Files, added by user
+lbNoData=(No data for preview)
+cbSubFolders=With subfolders
+
+[ATEAutoTagForm]
+Caption=Autofill tag using file name
+bSave=Apply
+bSettings=Options
+c[0]=File name
+c[1]=Album
+c[2]=Artist
+c[3]=Genre
+c[4]=Title
+c[5]=Track No
+c[6]=Year
+
+[ATERenameForm]
+Caption=Rename options
+CB1=Preview
+CB2=Work with copy of file
+CB3=Automatic transliteration
+CB4=Replace spaces with underline char
+L2=To sort by folders you can you use char "\" (%Y\%A - %T)
+GB1=Rename files by template
+GB2=Move files to selected folder
+
+[ATESaveParams]
+Caption=Save options
+
+[ATEForm.lvTable]
+c[0]=¹
+c[1]=Disc ¹
+c[2]=File name
+c[3]=Title
+c[4]=Artist
+c[5]=Album
+c[6]=Year
+c[7]=Genre
+c[8]=Bitrate
+c[9]=$MSG->115
+c[10]=Format
+c[11]=Cover
+c[12]=ID3v1
+c[13]=ID3v2
+c[14]=APE
+c[15]=WMA
+c[16]=Vorbis
+
+[AutoTag]
+Caption=Autofilling
+CB1=Don't fill field if it has value
+bOk=Apply
+
+[CAD]
+Caption=Cover search
+B1=Save as file
+B2=$Options->bOk
+L1=Duplicates search:
+L2=Search in the internet
+CB1=Download covers with size:
+
+[AIMPLibMainForm]
+Caption=AIMP3: Audio Library
+seMenu=Menu
+seCopy.h=Copy playing file to the clipboard
+cbGroups=Grouping
+aAddFiles=$AIMP->N93
+aGroupAdd=Add
+aGroupEdit=Edit
+aGroupDelete=Delete
+aPlay=Play
+aPlayFromTable=$aPlay
+aPlayInAIMP3=Play in AIMP3
+aPause=$MSG->14
+aStop=$AIMP->N92
+aNext=$AIMP->N96
+aPrev=$AIMP->N95
+aShuffle.h=$AIMP->CtrlShuffle.h
+aRepeat.h=$AIMP->CtrlRepeat.h
+aDBImport=Import data base from AIMP2
+miAddTo=Add to playlist
+miCompress=Compress database
+miEdit=Edit...
+miDB=Database
+miDropStatistics=Reset statistics
+miDropFiles=Remove all files from database
+miFindNew=$AIMP->CM_Find
+miFileFolder=$MSG->82
+miFileUpdateTags=Rescan tags
+miLabel=Labels...
+miLabelSet=Set label
+miLabelSetNew=New label
+miLabelRemove=Remove label
+miLabelRemoveAll=Remove all labels
+miMarks=$MSG->85
+miMissed=Missed files
+miStatistics=Statistics
+miSettings=$AIMP->Options
+miRemove=Remove selected files from DB
+miRemovePhys=$AIMP->Del_Recycle
+miRemoveGroup=$miRemove
+miReport=Report...
+miUpdate=Update
+miUpdateAllTags=Rescan tags in all files
+bViewAlbum.h=Show as groups
+bViewTable.h=Show by table
+
+[AIMPLibAddForm]
+Caption=Adding files and folders
+bScan=Add
+gbFiltBy=Skip file
+cbMinFS=If size lower than:
+cbMinFD=If duration lower than:
+lvTypes=File types
+
+[CopyDialog]
+0=Copying...
+1=Moving...
+2=Pause
+3=Continue
+
+[AIMPLibReports]
+0=General
+1=Total
+2=Played
+3=Albums count
+4=Artists count
+5=Genres count
+6=Files count
+7=Years
+8=Playback count
+9=Total playback time (~)
+10=Favourite artists
+11=Favourite albums
+12=Favourite genres
+
+[AIMPLibPlaylistFrame]
+Caption=Playlists
+miPlay=$MSG->12
+miFileFolder=$MSG->82
+miFileCopy=$AIMP->CpySelToCpbrd
+miDelete=$PLS->N20
+miDeleteSelected=$AIMP->Del_Sel
+miDeleteSelectedPhys=$AIMP->Del_Recycle
+miDeleteDead=$AIMP->Del_bad
+miAdd=$AIMP->N93
+miAddFiles=$AIMP->N93
+miAddFolder=$AIMP->AddFolder.h
+miAddLink=$AIMP->AddURL.h
+miDeleteAll=$AIMP->Del_all
+miSort=Softing
+miSortByArtist=$AIMP->SortByArtist
+miSortByTitle=$AIMP->SortByTitle
+miSortByPath=$AIMP->SortByFName
+miSortInvert=$AIMP->SortInvert
+miSortRandomize=$AIMP->SortRandomize
+miSelectAll=$AIMP->SelAll
+miSelectNone=$AIMP->SelNone
+miSwitchOn=$PLS->N22
+miSwitchOff=$PLS->N23
+miInsertAfterCurrect=$AIMP->CtrlInsAfterCurrent
+miMark=$MSG->85
+
+[AIMPLibGroupForm]
+Caption=Add / Edit group types
+lvGroup=Used columns
+lvAvailable=Available colums
+lbName=Name:
+bCancel=Cancel
+bApply=Apply
+L1=Autoname
+
+[AIMPLibMainForm.MSG]
+0=Today
+1=Today and yesterday
+2=Week
+3=Month
+4=3 month
+5=6 month
+6=Year
+7=Older
+L1=Disable all filters
+L2=Copy to "%s"...
+L3=Move to "%s"...
+L4=Meanings
+
+[AIMPLibMainForm.Tables]
+sTitle=Title
+sArtist=Artist
+sAlbum=Album
+sAlbumArtist=Ensemble
+sTrack=Track ¹
+sDisk=Disc ¹
+sGenre=Genre
+sDate=Year
+sLabels=Labels
+iFreq=Frequence
+iBitRate=Bitrate
+iChannels=Channels
+iDuration=Duration
+iSize=File size
+iMark=$MSG->85
+iPlayCount=Playback times
+dPlaying=Played
+dAdded=Added
+sName=File name
+
+[AIMPLibLabelsForm]
+Caption=Labels
+aNewLabel=New label
+bClose=Close
+bAdd=Add
+bRemove=Remove
+bRename=Rename
+
+[AIMPLibDevicesFrame]
+Caption=Removable devices
+L1=Browse...
+c[0]=Name
+c[1]=Size
+c[2]=Type
+
+[AIMPLibMissedFilesForm]
+Caption=$AIMPLibMainForm->miMissed
+bApply=Replace checked
+bSearch=Search...
+miDeleteSelected=Remove selected
+miDeleteUnchecked=Remove unchecked files 
+miDeleteAll=Remove all found files
+
+[AIMPLibMissedFilesForm.lvTable]
+c[0]=Missed file
+c[1]=Replace with file
+
+[AIMPSendToDialogForm]
+Caption=Copy to...
+Category=Copy options
+bSend=Copy
+gbAdditionals=Additional files
+gbPath=Destination path
+gbRename=Rename by template
+cbDefault=Apply as a default
+lbAdditionals=Files will be copied to destination path with main files.\n; - separator, * - unknown part of file name
+
+[AIMPLibStartDialogForm]
+Caption=Welcome!
+G1=Select Action
+R1=Do nothing
+R2=Add files from hard disk to data base
+R3=Import files from old data base version
+bOk=Ok

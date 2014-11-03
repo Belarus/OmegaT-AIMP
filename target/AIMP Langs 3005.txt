@@ -1,0 +1,27 @@
+РУССКИЙ
+==============================
+[FILE]
+VersionID=3005
+
+[OptionsFrameNet]
+L1=User-Agent:
+
+[AIMP]
+EQSwitch.h=Эквалайзер (вкл/выкл)
+TCN.h=Прокрутить вкладки вперед
+TCP.h=Прокрутить вкладки назад
+
+
+==============================
+ENGLISH
+==============================
+[FILE]
+VersionID=3005
+
+[OptionsFrameNet]
+L1=User-Agent:
+
+[AIMP]
+TCN.h=Scroll tabs forward
+TCP.h=Scroll tabs backward
+EQSwitch.h=Equalizer (On / Off)

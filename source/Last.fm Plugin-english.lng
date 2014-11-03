@@ -1,0 +1,66 @@
+﻿[FILE]
+Icon=0000010001001010000001001800680300001600000028000000100000002000000001001800000000004003000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000AF62289C5F47B45C1FBF5B07BC5601BE6A25937B850720CE071FCB7D6C8EB05F29B14A01AE4A06A44B1F8C4F489A4720B97F5399A2CAA092A3CF7D31E67400E58D28B6A19D1749F31648F49D95B1D68330DB6B00C6752F9C8C9F8A94CAA86748C37230D0B494AEBCDEAA9FAED3833AF79520C1AAA01E55FB1D54FCA7A0B7E58A2AD27E35A797A69FAEDFC0AA9CAB5422C6630FE88F29D8B285B3B8D3AB9BA9D09866C7AC9A2257FA2155FBACA1B2CD9768AA949FA2AAD6C6A793D6812EAC4405CF7E2FEE9126FBAD42E7CEADBCC5E6C2BCCACBBEBE275AFC2658FCB3B0CABBB5C4B0BBE1D1C1B7EEA54CDD7F21B76224A48C8DC1A796C8A98ECEBAADBEC4E2B2C5FC9FB5FA2E5FFE2C5CFE90A8F697ADF7AAB7E5C2B2B2B79786AE938E907179133EEB265BF82C62FB3063FC3364FE3465FE3566FE3566FE3363FE2C5DFE2557FE2053FE1A4EFC134AFB0D41F30A1EC81640EB295DF92F64FC3466FD3869FE386AFF396AFF3A69FF3666FE2E5FFE275AFE2154FE1B4EFD144BFB0E43F40921C99D8FA0BAAAAAC3ACA1CCC2C3B9C5EFA9C0FF9DB7FF3A6AFF3567FE8EA9FA8FA9FBA1B2ECB9B1BFAD9798A4949E897488D08438F0992FFFB955E9D7BDBCC8EEC4C1D1D1CAC6386AFC3466FCB9B7CDB9B3C4AAB6E3CEC2BFEEAA58DC8229B9692CCF6E0FF49D33E1BD8FBABFD6B4A4AADAA96CD6BEA23669FA3265FBB8ADB5D59D68AE9699A5ACD2CAAC96E08830B84E04CE8135D8C1A4B3C0DFB4A6AAE19239FFA622D2BBA73469FB3164FCB5ADBCF1952CDE862FAD999D9EAEDAC4AF9FB96224C8905D9AA5C9AC999DDE8C2FF68601F49D2CC8B2A42D60F72B5CF7ADA5BAE29135E87802D47F29A68F908995C8B8794AC07835AE754FC2722ECE7114CE6D0CD08231A692961740E7173CE48F86A6C17738C4630CC06413B4652BA16749AC6029000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FFFF00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FFFF0000
+Author=Artem Izmaylov
+Name=English (EN)
+VersionID=0
+Help=AIMP3-en.chm
+LangId=1033
+
+[Lastfm]
+3=An error occurs!
+4=Guest
+1=You are logged in as:
+5=You must log in!
+6=State of scrobbler queue: %d / %d
+2=Some functions will be unavailable after log out. Do you wish to continue?
+
+[Lastfm.Auth]
+btnAllowAccess=Allow Access
+btnOk=OK
+Caption=Authorization
+lbDetails=You must approve permissions request in your last.fm profile for correct plugin work:\n\n1. Click the "Allow Access" button to open your last.fm profile in the internet browser.\n\n2. Click the "Yes, Allow Access" button at the opened page in the internet browser.\n\n3. Click the "OK" button at this window after successful approving in your last.fm profile.
+
+[Lastfm.Settings]
+btnLogOff=Log Out
+C1=Last.fm
+btnLog=Show Log
+btnAuthorize=Log In
+lbAuthorizationWarning=* Authorization is required
+lbProfileLink=My Profile at Last.fm
+L1=Playable file
+G2=Authorization
+G1=Options
+cbScrobbling=* Allow scrobbling
+cbTrayIcon=Show tray icon
+cbTrackInfo=Show information about the playable track on start playback
+cbTrayNotifyOnError=Notify about errors
+cbUseAlbumArtist=Use value from the AlbumArtist field instead of the Artist field if possible
+cbAlbumArtSearch=Download album arts from Last.fm service
+cbAutoLove=* Love track when 5 stars mark is set for the track
+cbAutoUnlove=* Unlove track when mark lower than 3 stars is set for the track
+
+[Lastfm.TrackInfo]
+Caption=Information about the playable file
+L1=Hello, %s!
+pnlScrobblingProgress.h=Scrobbler progress
+L4=Listeners: %d
+L3=Plays: %d
+Status=Searching the information...|Information about the track is not found|Nothing is played
+
+[Lastfm.TrayIcon]
+acProfile=My Profile
+acScrobbling=Enable Scrobbling
+acSettings=Options
+acShowTrackInfo=Information about the track
+acRecommendations=My Recommendations
+acErrorInfo=Error Details
+acLoveTrack=Love
+acUnloveTrack=Unlove
+
+[Lastfm.Welcome]
+btnNoThanks=No, Thanks
+Caption=Last.fm
+btnSetup=Setup Now
+btnLater=Setup Later
+lbDetails=Last.fm is a music discovery service that gives you personalised recommendations based on the music you listen to.
+
