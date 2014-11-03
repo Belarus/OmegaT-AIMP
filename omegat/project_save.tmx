@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>%s - показать|%s - спрятать</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T135704Z" creationid="UsevaladK" creationdate="20141103T135704Z">
+        <seg>%s — паказаць|%s — схаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>%s свободно из %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110920T094415Z">
@@ -1002,6 +1010,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110714T213735Z">
         <seg>* Скінуць паўзункі да стандартнага значэньня можна правай клявішай мышы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>* Скробблинг</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T141632Z" creationid="UsevaladK" creationdate="20141103T141632Z">
+        <seg>* Скроблінг</seg>
       </tuv>
     </tu>
     <tu>
@@ -1135,6 +1151,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>3601</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T135125Z" creationid="UsevaladK" creationdate="20141103T135125Z">
+        <seg>3601</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>6 месяцев</seg>
       </tuv>
       <tuv lang="be">
@@ -1238,8 +1262,8 @@
       <tuv lang="RU">
         <seg>Artem Izmaylov</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20120405T185540Z">
-        <seg>Usievaład Čorny (eratyk@tut.by), Pavel Hushcha (paul_fastest@tut.by)</seg>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T135622Z">
+        <seg>Usievaład Čorny (anibyl@riseup.net), Pavel Hushcha (paul_fastest@tut.by)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2556,6 +2580,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Все|Элементы фона|Элементы управления</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140201Z" creationid="UsevaladK" creationdate="20141103T140201Z">
+        <seg>Усе|Элемэнты фону|Элемэнты кіраваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Всегда показывать иконку в трее</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110117T171807Z">
@@ -2584,6 +2616,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Уставіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Вставить свойства</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140302Z" creationid="UsevaladK" creationdate="20141103T140302Z">
+        <seg>Уставіць уласьцівасьці</seg>
       </tuv>
     </tu>
     <tu>
@@ -3124,6 +3164,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Действия</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T141417Z" creationid="UsevaladK" creationdate="20141103T141417Z">
+        <seg>Дзеяньні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Дизайн:</seg>
       </tuv>
       <tuv lang="be">
@@ -3260,6 +3308,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Добавить в начало очереди</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T135717Z" creationid="UsevaladK" creationdate="20141103T135717Z">
+        <seg>Дадаць у пачатак чаргі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Добавить в очередь</seg>
       </tuv>
       <tuv lang="be">
@@ -3320,6 +3376,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Дадаць і прайграць файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Добавить направляющую...</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140335Z" creationid="UsevaladK" creationdate="20141103T140335Z">
+        <seg>Дадаць накіравальную…</seg>
       </tuv>
     </tu>
     <tu>
@@ -3600,6 +3664,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20120405T211751Z">
         <seg>Даступная новая вэрсія: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Доступность для мыши</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140422Z" creationid="UsevaladK" creationdate="20141103T140422Z">
+        <seg>Даступнасьць для мышкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -4172,6 +4244,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Звук</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T135727Z" creationid="UsevaladK" creationdate="20141103T135727Z">
+        <seg>Гук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Звук (вкл/выкл)</seg>
       </tuv>
       <tuv lang="be">
@@ -4264,6 +4344,22 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T062036Z">
         <seg>Зьмяненьне памераў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Изменение регистра / Транслитерация</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T135755Z" creationid="UsevaladK" creationdate="20141103T135755Z">
+        <seg>Зьмяненьне рэгістру і трансьлітарацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Изменение регистра / транслитерация</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T135749Z" creationid="UsevaladK" creationdate="20141103T135749Z">
+        <seg>Зьмяненьне рэгістру і трансьлітарацыя</seg>
       </tuv>
     </tu>
     <tu>
@@ -4852,6 +4948,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Источник: трек</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T135931Z" creationid="UsevaladK" creationdate="20141103T135931Z">
+        <seg>Крыніца: трэк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Источник: файл</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130130T211616Z">
@@ -5272,6 +5376,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Скапіяваць прайграваны файл у апошні абраны каталёг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Копировать свойства</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140256Z" creationid="UsevaladK" creationdate="20141103T140256Z">
+        <seg>Капіяваць уласьцівасьці</seg>
       </tuv>
     </tu>
     <tu>
@@ -5812,6 +5924,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Направляющие</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140347Z" creationid="UsevaladK" creationdate="20141103T140347Z">
+        <seg>Накіравальныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Направо</seg>
       </tuv>
       <tuv lang="be">
@@ -6152,6 +6272,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Тыдзень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Недоступен</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140433Z" creationid="UsevaladK" creationdate="20141103T140433Z">
+        <seg>Недаступны</seg>
       </tuv>
     </tu>
     <tu>
@@ -7300,6 +7428,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Отступ</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140803Z" creationid="UsevaladK" creationdate="20141103T140803Z">
+        <seg>Водступ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Отступы</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T061130Z">
@@ -7592,6 +7728,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140811T170620Z" creationid="eratyk" creationdate="20140811T170620Z">
         <seg>Налады злучэньня зь сецівам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Параметры подключения к сети</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T135942Z" creationid="UsevaladK" creationdate="20141103T135942Z">
+        <seg>Налады злучэньня зь сеткай</seg>
       </tuv>
     </tu>
     <tu>
@@ -7972,6 +8116,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Переместить...</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140413Z" creationid="UsevaladK" creationdate="20141103T140413Z">
+        <seg>Перамясьціць…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Перемешать</seg>
       </tuv>
       <tuv lang="be">
@@ -8196,6 +8348,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Плеер не найден. Проверьте путь к нему в настройках редактора.</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140229Z" creationid="UsevaladK" creationdate="20141103T140229Z">
+        <seg>Плэер ня знойдзены. Праверце шлях да яго ў наладах рэдактара.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Плеер: Навигация</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130130T211727Z">
@@ -8304,6 +8464,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110920T094919Z">
         <seg>Па левым боку|Па правым боку|Па цэнтры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>По маске</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140436Z" creationid="UsevaladK" creationdate="20141103T140436Z">
+        <seg>Па масцы</seg>
       </tuv>
     </tu>
     <tu>
@@ -8852,6 +9020,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Показывать колонку с номером трека</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T135955Z" creationid="UsevaladK" creationdate="20141103T135955Z">
+        <seg>Паказваць слупок з назваю трэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Показывать колонку с номером файла</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130130T222402Z">
@@ -8892,6 +9068,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Показывать обложку альбома</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140408Z" creationid="UsevaladK" creationdate="20141103T140408Z">
+        <seg>Паказваць вокладку альбому</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Показывать окно с информацией при старте воспроизведения</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140811T180511Z" creationid="eratyk" creationdate="20140811T180511Z">
@@ -8928,6 +9112,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110920T100250Z">
         <seg>Паказваць стан прайгравальніка ў значку латка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Полностью доступен</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140429Z" creationid="UsevaladK" creationdate="20141103T140429Z">
+        <seg>Поўнасьцю даступны</seg>
       </tuv>
     </tu>
     <tu>
@@ -8992,6 +9184,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130503T171741Z">
         <seg>Карыстальніцкія пастаўнікі…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Поля:</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T141411Z" creationid="UsevaladK" creationdate="20141103T141411Z">
+        <seg>Палі:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9176,6 +9376,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T062047Z">
         <seg>Перадпрагляд тэксту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Предпросмотр текста\nText preview</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140746Z" creationid="UsevaladK" creationdate="20141103T140746Z">
+        <seg>Перадпрагляд тэксту\nText preview</seg>
       </tuv>
     </tu>
     <tu>
@@ -9956,6 +10164,22 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Пути</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140451Z" creationid="UsevaladK" creationdate="20141103T140451Z">
+        <seg>Шляхі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Путь к плееру:</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140447Z" creationid="UsevaladK" creationdate="20141103T140447Z">
+        <seg>Шлях да прайгравальніка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Путь к файлу / папке</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130912T071957Z">
@@ -10080,6 +10304,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130118T135242Z">
         <seg>Разгарнуць ці аднаіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Развернуть|Восстановить</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T135639Z" creationid="UsevaladK" creationdate="20141103T135639Z">
+        <seg>Разгарнуць|Аднавіць</seg>
       </tuv>
     </tu>
     <tu>
@@ -10244,6 +10476,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Разрешить выбирать элементы правой кнопкой мыши</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140558Z" creationid="UsevaladK" creationdate="20141103T140558Z">
+        <seg>Дазволіць абіраць элемэнты правай кнопкай мышы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Разрешить доступ</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140811T181014Z" creationid="eratyk" creationdate="20140811T181014Z">
@@ -10288,6 +10528,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T060727Z">
         <seg>Дазволіць ужываньне эфэкту размыцьця да фону (для Windows 7 і навейшых)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Разрешить применение эффекта размытия к фону (для Windows 7)</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140714Z" creationid="UsevaladK" creationdate="20141103T140714Z">
+        <seg>Дазволіць ужываньне эфэкту размыцьця да фону (для Windows 7)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10436,6 +10684,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Расположение</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140757Z" creationid="UsevaladK" creationdate="20141103T140757Z">
+        <seg>Разьмяшчэньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Расположение файла</seg>
       </tuv>
       <tuv lang="be">
@@ -10510,8 +10766,16 @@
       <tuv lang="RU">
         <seg>Регистр</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20130912T072229Z">
-        <seg>Рэгістр</seg>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T135923Z">
+        <seg>Рэгістар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Регистр:</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T135903Z" creationid="UsevaladK" creationdate="20141103T135903Z">
+        <seg>Рэгістар:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10828,6 +11092,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Сбросить настройки расположения</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140400Z" creationid="UsevaladK" creationdate="20141103T140400Z">
+        <seg>Скінуць налады разьмяшчэньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Сбросить настройки эквалайзера</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T060930Z">
@@ -11140,6 +11412,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Скробблить файл после проигрывания:</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T141620Z" creationid="UsevaladK" creationdate="20141103T141620Z">
+        <seg>Скробліць файл пасьля прайграваньня:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Слева</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110117T171600Z">
@@ -11176,6 +11456,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Выпадковы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Случайный трек</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T135724Z" creationid="UsevaladK" creationdate="20141103T135724Z">
+        <seg>Выпадковы трэк</seg>
       </tuv>
     </tu>
     <tu>
@@ -11228,10 +11516,42 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Смещать склонированный элемент относительно исходного</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140638Z" creationid="UsevaladK" creationdate="20141103T140638Z">
+        <seg>Зрушваць склянаваны элемэнт адносна зыходнага</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Снизу</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T061142Z">
         <seg>Зьнізу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Снимите галочку, чтобы удалить обложку из файла при сохранении</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140119Z" creationid="UsevaladK" creationdate="20141103T140119Z">
+        <seg>Зьніміце птушку, каб выдаліць вокладку з файла падчас захаваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Собрать обложку</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140239Z" creationid="UsevaladK" creationdate="20141103T140239Z">
+        <seg>Сабраць вокладку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Собрать обложку и запустить</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140248Z" creationid="UsevaladK" creationdate="20141103T140248Z">
+        <seg>Сабраць вокладку й запусьціць</seg>
       </tuv>
     </tu>
     <tu>
@@ -11924,6 +12244,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Теги:</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T141422Z" creationid="UsevaladK" creationdate="20141103T141422Z">
+        <seg>Тэгі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Текст песни</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110714T221224Z">
@@ -12040,6 +12368,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130130T204409Z">
         <seg>Трансьлітарацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Транслитерация:</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T135911Z" creationid="UsevaladK" creationdate="20141103T135911Z">
+        <seg>Трансьлітарацыя:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12176,6 +12512,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Выдаліць усе знойдзеныя файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Удалить все направляющие</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140342Z" creationid="UsevaladK" creationdate="20141103T140342Z">
+        <seg>Выдаліць усе накіравальныя</seg>
       </tuv>
     </tu>
     <tu>
@@ -12772,6 +13116,30 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Цвет направляющих:</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140538Z" creationid="UsevaladK" creationdate="20141103T140538Z">
+        <seg>Колеры накіравальных:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Цвет рабочего стола:</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140506Z" creationid="UsevaladK" creationdate="20141103T140506Z">
+        <seg>Колер стальніцы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Цвет сетки лупы:</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140531Z" creationid="UsevaladK" creationdate="20141103T140531Z">
+        <seg>Колер сеткі лупы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Цвет текста</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140811T164150Z" creationid="eratyk" creationdate="20140811T164150Z">
@@ -12784,6 +13152,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130503T201825Z">
         <seg>Колер фону стальніцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Цвета</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140454Z" creationid="UsevaladK" creationdate="20141103T140454Z">
+        <seg>Колеры</seg>
       </tuv>
     </tu>
     <tu>
@@ -13232,6 +13608,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130118T135211Z">
         <seg>да левага боку экрану|да правага боку экрану|да верхняга боку экрану|да ніжняга боку экрану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>пкс.</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20141103T140820Z" creationid="UsevaladK" creationdate="20141103T140820Z">
+        <seg>пкс.</seg>
       </tuv>
     </tu>
     <tu>

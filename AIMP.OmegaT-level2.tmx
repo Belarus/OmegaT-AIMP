@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="paragraph" srclang="RU"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>$LINK - Официальный сайт проекта</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195905Z">
+        <seg>$LINK — Афіцыйны сайт праекту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>* Добавлять в список любимых при выставлении оценки "5"</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T180005Z" creationid="eratyk" creationdate="20140811T180005Z">
+        <seg>* Дадаваць у сьпіс упадабаных пры выстаўленьні ацэнкі «5»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>* Необходима авторизация</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T180629Z" creationid="eratyk" creationdate="20140811T180629Z">
+        <seg>* Неабходнае ўпаўнаважаньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>* Скробблинг</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="UsevaladK" changedate="20141103T141632Z" creationid="UsevaladK" creationdate="20141103T141632Z">
+        <seg>* Скроблінг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>* Убирать из списка любимых при выставлении оценки ниже "3"</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T180045Z" creationid="eratyk" creationdate="20140811T180045Z">
+        <seg>* Прыбіраць са сьпісу ўпадабаных пры выстаўленьні ацэнкі ніжэй за «3»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>00000100010010100000010018006803000016000000280000001000000020000000010018000000000040030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001032E0163BE5163BE51637DF1536DC1433D91430D5122DD1122DD11029CF0E27C90D22C60B20C2091CBF0719BE0B10A4153EEB2F60FF3666FF3666FF3566FF2F60FF2E5EFF2758FF2152FF1A4CFF1448FF1640EF0A3FFA0A3FFA1032E00416BE1640EF3B6CFF4372FF4271FF3E6EFF3A6CFF3566FF2E5EFF2859FF2152FF1A4EFF1448FF1446FF0D40FF073BFF0417C00D42FF326BFF3C73FF3B72FF326BFF2B65FF2B65FF245DFF1C58FF1550FF0F4AFF0844FF023EFF003AFF003AFF0416CF1430D51430D51430D51430D51430D51430D51430D51430D51430D51430D51430D51430D51430D51430D5122DD10B10A4B5682ACF812AD5872AD5872AD5872AD5872AD5872AD5872AD5872ACF812ACB7E2AC6792AC2752ABB6E2AAF6024883D29CE6C06EA8300F38C00F78E00FA9100FA9300F99100F38C00EF8800EA8300E98000E27A00DD7400D97200CE6B06AD4804CE6C06EA8300F28A00F78E00FA9300FD9600F99100F38C00EF8800EA8300E67E00E27A00DD7400D97200CE6B06AD4804CF812AE49837E99C37EDA038F5A838F5A838F5A838E99C37E99C37E49837DE9135D5872AD5872AD5872ACB7E2AAF6024B6B6B6E9EFF7EEF5FCF2F8FFF5FBFFF4FAFFF4FAFFF0F6FEEEF5FCE9EFF7E4EBF2DEE4EBDEE4EBD4DBE1CBCFD6929292CBCFD6E9EFF7EEF5FCF2F8FFF4FAFFF5FBFFF4FAFFF2F8FFEEF5FCE9EFF7E4EBF2DEE4EBDEE4EBD8DEE5CBCFD6A9AEB3CFCFCFEBEBEBF2F2F2F6F6F6FAFAFAFBFBFBFAFAFAF4F4F4F1F1F1EBEBEBE9E9E9E3E3E3DEDEDED9D9D9D2D2D2B0B0B0CFCFCFE9E9E9EEEEEEF1F1F1F3F3F3F6F6F6F3F3F3EEEEEEEAEAEAE9E9E9E3E3E3DEDEDED9D9D9D2D2D2CCCCCCB0B0B0C9C9C9D2D2D2CFCFCFCFCFCFCFCFCFCFCFCFCCCCCCC8C8C8C5C5C5C4C4C4C1C1C1BCBCBCBCBCBCB8B8B8B3B3B3AAAAAA000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FFFF00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FFFF0000</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20110714T211014Z">
+        <seg>0000010001001010000001001800680300001600000028000000100000002000000001001800000000004003000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000B6B6B6D3D5D7D8D9DAD6D7D9D6D7D7D5D6D7D6D7D8D5D6D8D3D5D7D0D2D4CED0D2CACCCEC6C8CAC3C5C7BEC0C2939393CBCFD6E9EFF7EEF5FCF2F8FFF4FAFFF5FBFFF4FAFFF2F8FFEEF5FCE9EFF7E4EBF2DEE4EBDEE4EBD8DEE5CBCFD6A9AEB3CFCFCFEBEBEBF2F2F2F6F6F6FAFAFAFBFBFBFAFAFAF4F4F4F1F1F1EBEBEBE9E9E9E3E3E3DEDEDED9D9D9D2D2D2B0B0B0CFCFCFE9E9E9EEEEEEF1F1F1F3F3F3F6F6F6F3F3F3EEEEEEEAEAEAE9E9E9E3E3E3DEDEDED9D9D9D2D2D2CCCCCCB0B0B0C9C9C9D2D2D2CFCFCFCFCFCFCFCFCFCFCFCFCCCCCCC8C8C8C5C5C5C4C4C4C1C1C1BCBCBCBCBCBCB8B8B8B3B3B3AAAAAA2A54B52A4FCF2A4DD52A4DD52A4DD52A4DD52A4DD52A4DD52A4DD52A4FCF2A4ECB2A50C62A51C22A52BB2450AF295C880636CE002CEA002AF3002AF7002AFA0028FA002AF9002AF3002BEF002CEA002EE9002FE20031DD0030D90636CE043EAD0636CE002CEA002BF2002AF70028FA0028FD002AF9002AF3002BEF002CEA002EE6002FE20031DD0030D90636CE043EAD2A4FCF3757E43757E93857ED3856F53856F53856F53757E93757E93757E43557DE2A4DD52A4DD52A4DD52A4ECB2450AFB6B6B6E9EFF7EEF5FCF2F8FFF5FBFFF4FAFFF4FAFFF0F6FEEEF5FCE9EFF7E4EBF2DEE4EBDEE4EBD4DBE1CBCFD6929292CBCFD6E9EFF7EEF5FCF2F8FFF4FAFFF5FBFFF4FAFFF2F8FFEEF5FCE9EFF7E4EBF2DEE4EBDEE4EBD8DEE5CBCFD6A9AEB3CFCFCFEBEBEBF2F2F2F6F6F6FAFAFAFBFBFBFAFAFAF4F4F4F1F1F1EBEBEBE9E9E9E3E3E3DEDEDED9D9D9D2D2D2B0B0B0CFCFCFE9E9E9EEEEEEF1F1F1F3F3F3F6F6F6F3F3F3EEEEEEEAEAEAE9E9E9E3E3E3DEDEDED9D9D9D2D2D2CCCCCCB0B0B0C9C9C9D2D2D2CFCFCFCFCFCFCFCFCFCFCFCFCCCCCCC8C8C8C5C5C5C4C4C4C1C1C1BCBCBCBCBCBCB8B8B8B3B3B3AAAAAA000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FFFF00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FFFF0000
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>1251</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20130118T135022Z">
+        <seg>1251</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>3500</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20130118T135019Z">
+        <seg>3500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>AIMP3-ru.chm</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20130118T135100Z">
+        <seg>AIMP3-ru.chm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>APE</seg>
+      </tuv>
+      <tuv xml:lang="be">
+        <seg>APE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Artem Izmaylov</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="UsevaladK" changedate="20141103T135622Z">
+        <seg>Usievaład Čorny (anibyl@riseup.net), Pavel Hushcha (paul_fastest@tut.by)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>BPM</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20130119T181556Z">
+        <seg>біт/хв</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>CUE</seg>
+      </tuv>
+      <tuv xml:lang="be">
+        <seg>CUE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>ID3v1</seg>
+      </tuv>
+      <tuv xml:lang="be">
+        <seg>ID3v1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>ID3v2</seg>
+      </tuv>
+      <tuv xml:lang="be">
+        <seg>ID3v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Last.fm</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T175703Z" creationid="eratyk" creationdate="20140811T175703Z">
+        <seg>Last.fm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>M4A</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20130130T204202Z">
+        <seg>M4A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Replay Gain</seg>
+      </tuv>
+      <tuv xml:lang="be">
+        <seg>Replay Gain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>User-Agent:</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20110920T095210Z">
+        <seg>User-Agent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Vorbis</seg>
+      </tuv>
+      <tuv xml:lang="be">
+        <seg>Vorbis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>WMA</seg>
+      </tuv>
+      <tuv xml:lang="be">
+        <seg>WMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Авторизация</seg>
+      </tuv>
+      <tuv xml:lang="be">
+        <seg>Аўтарызацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Авторизироваться</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T180956Z" creationid="eratyk" creationdate="20140811T180956Z">
+        <seg>Упаўнаважыцца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Ассоциировать $NAME с аудио файлами и плейлистами</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195404Z">
+        <seg>Засацыяваць $NAME з аўдыёфайламі і плэйлістамі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Вас приветствует мастер установки $NAME!</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T194213Z">
+        <seg>Вас вітае майстар усталёўваньня $NAME!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Версия для установки на переносные носители (например, флеш-карты).\nНастройки хранятся в папке с программой, не оставляет следов в системе.</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20130912T073048Z">
+        <seg>Вэрсія для ўсталёўваньня на пераносныя носьбіты (кшталту флэш-карты).\nНалады захоўваюцца ў тэчцы з праграмай і не пакідаюць сьлядоў у сыстэме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Версия программы</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T194752Z">
+        <seg>Вэрсія праграмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Включить скробблинг</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T181727Z" creationid="eratyk" creationdate="20140811T181727Z">
+        <seg>Уключыць скроблінг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Вы авторизированы как: %s</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T175413Z" creationid="eratyk" creationdate="20140811T175413Z">
+        <seg>Вы ўпаўнаважаныя як: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Вы не авторизировались!</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T175627Z" creationid="eratyk" creationdate="20140811T175627Z">
+        <seg>Вы не ўпаўнаважаныя!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Вы уверены, что хотите отменить установку $NAME?</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T184515Z">
+        <seg>Вы сапраўды жадаеце скасаваць усталёўваньне $NAME? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Выберите параметры интеграции в Windows</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195232Z">
+        <seg>Наладзьце інтэграцыю з Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Выбор версии программы в режиме обновления недоступен.</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195024Z">
+        <seg>Выбар вэрсіі праграмы ў рэжыме абнаўленьня недаступны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Выбор папки</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20130912T072252Z">
+        <seg>Абраньне тэчкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Выйти</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20130503T171734Z">
+        <seg>Выйсьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Гость</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T175615Z" creationid="eratyk" creationdate="20140811T175615Z">
+        <seg>Госьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Готово</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120405T191223Z">
+        <seg>Гатова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Далее</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T184309Z">
+        <seg>Далей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Деинсталяция</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T200307Z">
+        <seg>Высталёўваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Деинсталяция...</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T191144Z">
+        <seg>Высталёўваньне…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Для корректного взаимодействия плагина с аккаунтом Last.fm вам необходимо одобрить его в вашем профиле:\n\n1. Нажмите кнопку  "Разрешить доступ", чтобы перейти к вашему профилю на Last.fm.\n\n2. В браузере нажмите кнопку "Да, разрешить доступ", чтобы привязать аккаунт Last.fm к AIMP.\n\n3.Нажмите кнопку "Готово", после успешного одобрения приложения в вашем профиле на Last.fm.</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T181450Z" creationid="eratyk" creationdate="20140811T181450Z">
+        <seg>Для карэктнага ўзаемадзеяньня ўбудовы з контам Last.fm Вам неабходна ўхваліць яго ў Вашым профілі:\n\n1. Націсьніце кнопку «Дазволіць доступ», каб перайсьці да Вашага профілю на Last.fm.\n\n2. У аглядальніку націсьніце кнопку «Так, дазволіць доступ», каб прывязаць конт Last.fm да AIMP.\n\n3.Націсьніце кнопку «Гатова» пасьля пасьпяховага ўхваленьня праграмы ў Вашым профілі на Last.fm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Добавить проигрываемый трек в список любимых</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T181523Z" creationid="eratyk" creationdate="20140811T181523Z">
+        <seg>Дадаць прайграваны трэк у сьпіс упадабаных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Добавить пункт в контекстное меню Проводника Windows</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195714Z">
+        <seg>Дадаць пункт у кантэкстнае мэню вандроўніка Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Добавляет $NAME в список программ по умолчанию\nДобавляет ссылку в меню команды "Выполнить"\nДобавляет пункт в меню автозапуска CD\DVD-дисков</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195612Z">
+        <seg>Дадае $NAME у сьпіс стандартных праграмаў\nДадае спасылку ў мэню загаду «Выканаць»\nДадае пункт у мэню аўтазапуску кружэлак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Дополнительные</seg>
+      </tuv>
+      <tuv xml:lang="be">
+        <seg>Дадатковыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Дополнительные языки</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195107Z">
+        <seg>Дадатковыя мовы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Завершить</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T184321Z">
+        <seg>Скончыць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Загрузка дополнительных компонент...</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T194135Z">
+        <seg>Ладаваньне дадатковых кампанэнтаў…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Запустить $NAME</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T200105Z">
+        <seg>Запусьціць $NAME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Здравствуйте, %s!</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T182011Z" creationid="eratyk" creationdate="20140811T182011Z">
+        <seg>Вітаю, %s!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Извлечение новых файлов...</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T190051Z">
+        <seg>Выманьне новых файлаў…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Интеграция</seg>
+      </tuv>
+      <tuv xml:lang="be">
+        <seg>Інтэграцыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Интегрировать в Windows</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195418Z">
+        <seg>Інтэграваць у Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Информация о проигрываемом файле</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T181958Z" creationid="eratyk" creationdate="20140811T181958Z">
+        <seg>Інфармацыя пра прайграваны файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Информация о треке</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20130503T105418Z">
+        <seg>Інфармацыя пра трэк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Ищу информацию...|Информация о композиции не найдена|В данный момент ничего не проигрывается</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T182121Z" creationid="eratyk" creationdate="20140811T182121Z">
+        <seg>Пошук інфармацыі…|Інфармацыя пра кампазыцыю ня знойдзеная|Зараз нічога не прайграецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Какие дополнительные языки Вы хотите установить?</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195128Z">
+        <seg>Якія дадатковыя мовы Вы жадаеце ўсталяваць?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Лицензионное соглашение</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T200705Z">
+        <seg>Ліцэнзійнае пагадненьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Мастер установки $NAME</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T200420Z">
+        <seg>Майстар усталёўваньня $NAME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Мои рекомендации</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T181534Z" creationid="eratyk" creationdate="20140811T181534Z">
+        <seg>Мае рэкамэндацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Мой профиль</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T181527Z" creationid="eratyk" creationdate="20140811T181527Z">
+        <seg>Мой профіль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Мой профиль на Last.fm</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T181006Z" creationid="eratyk" creationdate="20140811T181006Z">
+        <seg>Мой профіль на Last.fm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Нажмите "Завершить", чтобы выйти из программы деинсталяции.</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T200412Z">
+        <seg>Націсьніце «Скончыць», каб выйсьці з праграмы высталёўваньня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Нажмите "Завершить", чтобы выйти из программы установки.</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195837Z">
+        <seg>Націсьніце «Скончыць», каб выйсьці з праграмы ўсталёўваньня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Назад</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T184304Z">
+        <seg>Назад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Настройка деинсталятора...</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T190141Z">
+        <seg>Наладжваньне высталёўніка…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Настройка параметров установки $NAME</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T194725Z">
+        <seg>Наладжваньне парамэтраў усталёўваньня $NAME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Настройка параметров...</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T200552Z">
+        <seg>Наладжваньне парамэтраў…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Настройки</seg>
+      </tuv>
+      <tuv xml:lang="be">
+        <seg>Налады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Не удается создать файл "%s".\nУбедитесь, что файла с таким именем нет в папке назначения, и диск доступен для записи.</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20130912T072842Z">
+        <seg>Не атрымліваецца стварыць файл «%s».\nПераканайцеся, што файла з такім імем няма ў тэчцы прызначэньня і дыск даступны для запісу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Не удалось скопировать файл "%s"</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T191230Z">
+        <seg>Не атрымалася скапіяваць файл «%s»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Не удалось создать путь "%S"</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T194036Z">
+        <seg>Не атрымалася стварыць шлях «%s»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Новая папка</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20130912T072258Z">
+        <seg>Новая тэчка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Обзор</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195003Z">
+        <seg>Агляд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Обновить существующую версию</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T194800Z">
+        <seg>Абнавіць існую вэрсію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Обновление файлов...</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T190110Z">
+        <seg>Абнаўленьне файлаў…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Обычная версия (рекомендуется)</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T194815Z">
+        <seg>Звычайная вэрсія (рэкамэндавана)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Ок</seg>
+      </tuv>
+      <tuv xml:lang="be">
+        <seg>Добра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Основные</seg>
+      </tuv>
+      <tuv xml:lang="be">
+        <seg>Асноўныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Отмена</seg>
+      </tuv>
+      <tuv xml:lang="be">
+        <seg>Скасаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Ошибка настройки деинсталятора</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T194017Z">
+        <seg>Памылка наладжваньня высталёўніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Ошибка!\nУстановка отменена</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195921Z">
+        <seg>Памылка!\nУсталёўваньне скасаванае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Папка для установки</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20130912T072853Z">
+        <seg>Тэчка ўсталяваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Параметры деинсталяции</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T200141Z">
+        <seg>Налады высталёўваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Параметры установки</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T194704Z">
+        <seg>Налады ўсталёўваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Перед установкой $NAME ознакомьтесь с лицензионным соглашением.</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T200721Z">
+        <seg>Перад усталёўваньнем $NAME азнаёмцеся зь ліцэнзійным пагадненьнем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Переносная версия</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T194824Z">
+        <seg>Пераносная вэрсія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Переносная версия не может быть установлена в $PROGRAMS.</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195102Z">
+        <seg>Пераносная вэрсія ня можа быць усталяваная ў $PROGRAMS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Подготовка...</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195757Z">
+        <seg>Рыхтаваньне…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Пожалуйста, подождите, пока $NAME установится на Ваш компьютер</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195748Z">
+        <seg>Калі ласка, пачакайце, пакуль $NAME усталюецца на Ваш кампутар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Поиск и закрытие активных приложений программы...</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T190938Z">
+        <seg>Пошук і зачыненьне актыўных кампанэнтаў праграмы…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Показать лог</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T175902Z" creationid="eratyk" creationdate="20140811T175902Z">
+        <seg>Паказаць хроніку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Показывать иконку в трее</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T180525Z" creationid="eratyk" creationdate="20140811T180525Z">
+        <seg>Паказваць значак у латку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Показывать окно с информацией при старте воспроизведения</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T180511Z" creationid="eratyk" creationdate="20140811T180511Z">
+        <seg>Паказваць акно з інфармацыяй на пачатку прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Посетить сайт проекта</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T200115Z">
+        <seg>Наведаць сайт праекту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>После выхода часть функций плагина станут неработоспособными! Продолжить?</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T175557Z" creationid="eratyk" creationdate="20140811T175557Z">
+        <seg>Пасьля выхаду часта функцый убудовы стане непрацаздольнай! Працягнуць?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Принимаю условия лицензионного соглашения</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T200730Z">
+        <seg>Прымаю ўмовы ліцэнзійнага пагадненьня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Программа $NAME успешно удалена.</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120516T065017Z">
+        <seg>Праграма $NAME пасьпяхова высталяваная.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Прогресс скробблера</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T182132Z" creationid="eratyk" creationdate="20140811T182132Z">
+        <seg>Прагрэс скроблера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Проигрываемый файл</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20130130T211647Z">
+        <seg>Прайграваны файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Произошла ошибка в ходе установки, пожалуйста, свяжитесь с технической поддержкой, если самостоятельно не можете устранить ее причину.</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T200059Z">
+        <seg>Адбылася памылка падчас усталёўваньня; калі ласка, зьвяжыцеся з тэхнічнай падтрымкай, калі самастойна ня можаце вырашыць праблему.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Произошла ошибка!</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T175604Z" creationid="eratyk" creationdate="20140811T175604Z">
+        <seg>Адбылася памылка!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Прослушиваний: %d</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T182030Z" creationid="eratyk" creationdate="20140811T182030Z">
+        <seg>Праслухоўваньняў: %d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Разное</seg>
+      </tuv>
+      <tuv xml:lang="be">
+        <seg>Рознае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Разрешить доступ</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T181014Z" creationid="eratyk" creationdate="20140811T181014Z">
+        <seg>Дазволіць доступ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Разрешить поиск и загрузку обложек альбомов из базы сервиса</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T175925Z" creationid="eratyk" creationdate="20140811T175925Z">
+        <seg>Дазволіць пошук і зладаваньне вокладак альбомаў з базы службы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Сведения об ошибке</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T181504Z" creationid="eratyk" creationdate="20140811T181504Z">
+        <seg>Зьвесткі пра памылку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Скробблить файл после проигрывания:</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="UsevaladK" changedate="20141103T141620Z" creationid="UsevaladK" creationdate="20141103T141620Z">
+        <seg>Скробліць файл пасьля прайграваньня:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Слушателей: %d</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T182043Z" creationid="eratyk" creationdate="20140811T182043Z">
+        <seg>Слухачоў: %d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Создание резервной копии...</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T185050Z">
+        <seg>Стварэньне рэзэрвовае копіі…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Создание ярлыков...</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T190018Z">
+        <seg>Стварэньне пускальнікаў…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Создать группу в меню "Пуск"</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195325Z">
+        <seg>Стварыць групу ў Пачатковым мэню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Создать ярлык на рабочем столе</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195300Z">
+        <seg>Стварыць пускальнік на стальніцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Состояние очереди скробблера: %d / %d</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T175701Z" creationid="eratyk" creationdate="20140811T175701Z">
+        <seg>Стан чаргі скроблера: %d / %d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Уведомлять о возникающих ошибках</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T180537Z" creationid="eratyk" creationdate="20140811T180537Z">
+        <seg>Паведамляць пра памылкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Удаление устаревших файлов...</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T190036Z">
+        <seg>Выдаленьне састарэлых файлаў…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Удаление...</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T200316Z">
+        <seg>Высталёўваньне…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Удалить</seg>
+      </tuv>
+      <tuv xml:lang="be">
+        <seg>Выдаліць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Удалить пользовательские настройки</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T200240Z">
+        <seg>Выдаліць карыстальніцкія налады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Удалить проигрываемый трек из списка любимых</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20140811T181845Z" creationid="eratyk" creationdate="20140811T181845Z">
+        <seg>Выдаліць прайграваны трэк са сьпісу ўпадабаных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Удалить резервные копии предыдущих версий</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T200220Z">
+        <seg>Выдаліць рэзэрвовыя копіі папярэдніх вэрсіяў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Укажите, какие языки необходимо установить:</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195144Z">
+        <seg>Азначце, якія мовы неабходна ўсталяваць:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Установить</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120405T185706Z">
+        <seg>Усталяваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Установка</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195724Z">
+        <seg>Усталёўваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Установка $NAME завершена!</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T200910Z">
+        <seg>Усталёўваньне $NAME скончанае!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Установка дополнительных компонент...</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T194152Z">
+        <seg>Усталёўваньне дадатковых кампанэнтаў…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Установка отменена пользователем</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T194058Z">
+        <seg>Усталёўваньне скасаванае карыстальнікам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Эта программа поможет Вам установить $NAME на Ваш компьютер.\n\nПеред началом установки рекомендуется закрыть все работающие приложения. Это позволит программе установки обновить системные файлы без перезагрузки компьютера.\n\nНажмите кнопку "Далее" для продолжения.</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T194551Z">
+        <seg>Гэтая праграма дапаможа Вам усталяваць $NAME на Ваш кампутар.\n\nПерад пачаткам усталёўваньня рэкамэндавана зачыніць усе праграмы, што працуюць. Гэта дазволіць праграме усталёўваньня абнавіць сыстэмныя файлы безь перазапуску  кампутара.\n\nНацісьніце кнопку «Далей», каб працягнуць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Язык по умолчанию:</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195156Z">
+        <seg>Стандартная мова:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Ярлыки</seg>
+      </tuv>
+      <tuv xml:lang="be" changeid="eratyk" changedate="20120502T195246Z">
+        <seg>Пускальнікі</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
