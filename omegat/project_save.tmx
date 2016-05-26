@@ -902,6 +902,30 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&amp;Воспроизвести</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100059Z" creationid="anibyl" creationdate="20160526T100059Z">
+        <seg>&amp;Прайграць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&amp;Открыть в AIMP</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100049Z" creationid="anibyl" creationdate="20160526T100049Z">
+        <seg>&amp;Адчыніць праз AIMP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&amp;Редактировать теги</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100138Z" creationid="anibyl" creationdate="20160526T100138Z">
+        <seg>&amp;Рэдагаваць тэгі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>(Все)</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110117T185717Z">
@@ -1208,6 +1232,14 @@
     <tu>
       <tuv lang="RU">
         <seg>=============================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>AIMP - Расширенный редактор тегов</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095948Z" creationid="anibyl" creationdate="20160526T095948Z">
+        <seg>AIMP3 — Пашыраны рэдактар тэгаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -3380,6 +3412,30 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Добавить в &amp;закладки</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100129Z" creationid="anibyl" creationdate="20160526T100129Z">
+        <seg>Дадаць у &amp;закладкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Добавить в &amp;очередь</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100118Z" creationid="anibyl" creationdate="20160526T100118Z">
+        <seg>Дадаць у &amp;чаргу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Добавить в &amp;плейлист</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100109Z" creationid="anibyl" creationdate="20160526T100109Z">
+        <seg>Дадаць у &amp;плэйліст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Добавить в активный плейлист</seg>
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T085018Z" creationid="anibyl" creationdate="20160526T085018Z">
@@ -5548,6 +5604,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Копировать в|Переместить в</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095913Z" creationid="anibyl" creationdate="20160526T095913Z">
+        <seg>Капіяваць у|Перамясьціць у</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Копировать выбранные файлы в буфер обмена</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110714T221348Z">
@@ -5632,6 +5696,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Скапіяваць файл у буфэр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Копировать|Переместить</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095856Z" creationid="anibyl" creationdate="20160526T095856Z">
+        <seg>Капіяваць|Перамясьціць</seg>
       </tuv>
     </tu>
     <tu>
@@ -8104,6 +8176,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110117T190711Z">
         <seg>Налады прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Параметры копирования|Параметры перемещения</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095931Z" creationid="anibyl" creationdate="20160526T095931Z">
+        <seg>Налады капіяваньня|Налады перамяшчэньня</seg>
       </tuv>
     </tu>
     <tu>
