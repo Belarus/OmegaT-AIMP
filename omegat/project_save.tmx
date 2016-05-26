@@ -1086,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>, где A - исходная строка, B/С - что/чем заменять</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103437Z" creationid="anibyl" creationdate="20160526T103437Z">
+        <seg>, дзе A — зыходны радок, B/C — што/чым замяняць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>- Все Слова С Большой Буквы</seg>
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T103049Z" creationid="anibyl" creationdate="20160526T103049Z">
@@ -1122,6 +1130,14 @@
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T102736Z" creationid="anibyl" creationdate="20160526T102736Z">
         <seg>— час стварэньня файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- всё маленькими буквами</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103348Z" creationid="anibyl" creationdate="20160526T103348Z">
+        <seg>— усё маленькімі літарамі</seg>
       </tuv>
     </tu>
     <tu>
@@ -1254,6 +1270,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>- количество символов в строке A</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103338Z" creationid="anibyl" creationdate="20160526T103338Z">
+        <seg>— колькасьць знакаў у радку A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>- композитор</seg>
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T102655Z" creationid="anibyl" creationdate="20160526T102655Z">
@@ -1278,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>- новая строка (только для треклиста)</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103411Z" creationid="anibyl" creationdate="20160526T103411Z">
+        <seg>— новы радок (толькі для трэклісту)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>- номер диска</seg>
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T102709Z" creationid="anibyl" creationdate="20160526T102709Z">
@@ -1298,6 +1330,14 @@
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T102944Z" creationid="anibyl" creationdate="20160526T102944Z">
         <seg>— ацэнка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- поиск подстроки А в строке Б</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103535Z" creationid="anibyl" creationdate="20160526T103535Z">
+        <seg>пошук падрадка A ў радку B</seg>
       </tuv>
     </tu>
     <tu>
@@ -1346,6 +1386,14 @@
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T103112Z" creationid="anibyl" creationdate="20160526T103112Z">
         <seg>— знак з кодам А</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- скопировать A с позиции B, где C - количество символов</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103507Z" creationid="anibyl" creationdate="20160526T103507Z">
+        <seg>— скапіяваць A з пазыцыі B, дзе C — колькасьць знакаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -1523,6 +1571,30 @@
       </tuv>
       <tuv lang="be">
         <seg>&lt;адсутнічае&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>= C, если A = B, иначе - D</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103308Z" creationid="anibyl" creationdate="20160526T103308Z">
+        <seg>= C, калі A = B, інакш — D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>= C, если A &gt; B, иначе - D</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103316Z" creationid="anibyl" creationdate="20160526T103316Z">
+        <seg>= C, калі A &gt; B, інакш — D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>= C, если A &gt;= B, иначе - D</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103324Z" creationid="anibyl" creationdate="20160526T103324Z">
+        <seg>= C, калі A &gt;= B, інакш — D</seg>
       </tuv>
     </tu>
     <tu>
