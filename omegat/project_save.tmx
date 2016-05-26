@@ -910,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&amp;Конвертировать в другой формат</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100149Z" creationid="anibyl" creationdate="20160526T100149Z">
+        <seg>&amp;Сканвэртаваць у іншы фармат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&amp;Открыть в AIMP</seg>
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T100049Z" creationid="anibyl" creationdate="20160526T100049Z">
@@ -1232,6 +1240,14 @@
     <tu>
       <tuv lang="RU">
         <seg>=============================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>AIMP - Аудиоконвертер</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100209Z" creationid="anibyl" creationdate="20160526T100209Z">
+        <seg>AIMP3 — Аўдыёканвэртар</seg>
       </tuv>
     </tu>
     <tu>
@@ -3820,6 +3836,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Добавлять паузу между файлами</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100346Z" creationid="anibyl" creationdate="20160526T100346Z">
+        <seg>Дадаваць паўзу паміж файламі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Добро пожаловать!</seg>
       </tuv>
       <tuv lang="be">
@@ -4392,6 +4416,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130130T215524Z">
         <seg>Затуханьне гуку падчас навігацыі па трэку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Затухание звука при навигации по файлу</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100231Z" creationid="anibyl" creationdate="20160526T100231Z">
+        <seg>Затуханьне гуку падчас навігацыі па файле</seg>
       </tuv>
     </tu>
     <tu>
@@ -7180,6 +7212,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Общее: диалоги</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100400Z" creationid="anibyl" creationdate="20160526T100400Z">
+        <seg>Агульнае: дыялёгі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Общий прогресс:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20120405T210802Z">
@@ -8788,6 +8828,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Плавное затухание громкости в конце файла</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100256Z" creationid="anibyl" creationdate="20160526T100256Z">
+        <seg>Плаўнае сьцішэньне гучнасьці ў канцы файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Плавное изменение громкости</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T061418Z">
@@ -8824,6 +8872,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110117T184917Z">
         <seg>Плаўнае ўзрастаньне гучнасьці напачатку трэку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Плавное нарастание громкости в начале файла</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100250Z" creationid="anibyl" creationdate="20160526T100250Z">
+        <seg>Плаўнае ўзрастаньне гучнасьці напачатку файла</seg>
       </tuv>
     </tu>
     <tu>
@@ -8888,6 +8944,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130130T211732Z">
         <seg>Прайгравальнік: Кіраваньне прайграваньнем</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Плеер: навигация</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100449Z" creationid="anibyl" creationdate="20160526T100438Z">
+        <seg>Прайгравальнік: навігацыя</seg>
       </tuv>
     </tu>
     <tu>
@@ -9952,6 +10016,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T061208Z">
         <seg>Перадпрагляд:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Предусиление</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100327Z" creationid="anibyl" creationdate="20160526T100327Z">
+        <seg>Перадузмацненьне</seg>
       </tuv>
     </tu>
     <tu>
@@ -11772,6 +11844,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Сводить предыдущий файл со следующим</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100238Z" creationid="anibyl" creationdate="20160526T100238Z">
+        <seg>Зводзіць папярэдні файл з наступным</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Свойства объекта</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130503T171815Z">
@@ -12712,6 +12792,14 @@
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T095613Z" creationid="anibyl" creationdate="20160526T095613Z">
         <seg>Ступень адпаведнасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Стереобаза</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100336Z" creationid="anibyl" creationdate="20160526T100336Z">
+        <seg>Стэрэабаза</seg>
       </tuv>
     </tu>
     <tu>
@@ -13700,6 +13788,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Файлы: отправить в...</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100407Z" creationid="anibyl" creationdate="20160526T100407Z">
+        <seg>Файлы: даслаць у</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Фильтр</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110117T160550Z">
@@ -13760,6 +13856,30 @@
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T095210Z" creationid="anibyl" creationdate="20160526T095210Z">
         <seg>Фанатэка — маніторынг файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Фонотека: дерево группировки</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100430Z" creationid="anibyl" creationdate="20160526T100430Z">
+        <seg>Фанатэка: дрэва групаваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Фонотека: общее</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100413Z" creationid="anibyl" creationdate="20160526T100413Z">
+        <seg>Фанатэка: агульнае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Фонотека: таблица</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100420Z" creationid="anibyl" creationdate="20160526T100420Z">
+        <seg>Фанатэка: табліца</seg>
       </tuv>
     </tu>
     <tu>
