@@ -1716,6 +1716,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Автоматически переходить на следующий файл</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101334Z" creationid="anibyl" creationdate="20160526T101334Z">
+        <seg>Самарушна пераходзіць на наступны файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Автоматически переходить на сьледующий трек</seg>
       </tuv>
       <tuv lang="be">
@@ -3824,6 +3832,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Дадаваць у дзейны плэйліст, калі перададзены адзін файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Добавлять все содержимое папки, если передан один файл</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101204Z" creationid="anibyl" creationdate="20160526T101204Z">
+        <seg>Дадаваць усё зьмесьціва тэчкі, калі перададзены адзін файл</seg>
       </tuv>
     </tu>
     <tu>
@@ -6796,6 +6812,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Некоторые из подключенных плагинов не используются этим приложением</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101349Z" creationid="anibyl" creationdate="20160526T101349Z">
+        <seg>Некаторыя з падключаных убудоваў не выкарыстоўваюцца гэтай праграмай</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Некоторые операции еще не завершены! Настаиваете на их принудительном завершении?</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20120415T055532Z">
@@ -7136,6 +7160,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Вокладка альбому</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Обложка должна поддерживать эту возможность</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101302Z" creationid="anibyl" creationdate="20160526T101302Z">
+        <seg>Вокладка павінна падтрымліваць гэтую магчымасьць</seg>
       </tuv>
     </tu>
     <tu>
@@ -7628,6 +7660,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Открывать плейлисты в новых вкладках</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101134Z" creationid="anibyl" creationdate="20160526T101134Z">
+        <seg>Адчыняць плэйлісты ў новых укладках</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Открытие файлов из внешних приложений</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110126T174050Z">
@@ -7800,6 +7840,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Адлюстраваная назва:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Отображать Waveform проигрываемого файла на полосе навигации</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101233Z" creationid="anibyl" creationdate="20160526T101233Z">
+        <seg>Адлюстроўваць Waveform прайграванага файла на паласе навігацыі</seg>
       </tuv>
     </tu>
     <tu>
@@ -9348,6 +9396,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Подключение к сети</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101313Z" creationid="anibyl" creationdate="20160526T101313Z">
+        <seg>Злучэньне зь сеткай</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Подключение...</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20120415T061629Z">
@@ -10852,6 +10908,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Прообраз: |Не задан|Папки|Фонотека</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101109Z" creationid="anibyl" creationdate="20160526T101109Z">
+        <seg>Правобраз: |Не зададзены|Тэчкі|Фанатэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Пропускать уже проанализированные файлы</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130119T181706Z">
@@ -12136,6 +12200,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Праглядаць абраныя: вызначаць альбом па тэгах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Скачать дополнительные плагины</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101406Z" creationid="anibyl" creationdate="20160526T101406Z">
+        <seg>Зладаваць дадатковыя убудовы</seg>
       </tuv>
     </tu>
     <tu>
