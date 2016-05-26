@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>%s - показать|%s - скрыть</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T084609Z" creationid="anibyl" creationdate="20160526T084609Z">
+        <seg>%s — паказаць|%s — схаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>%s - показать|%s - спрятать</seg>
       </tuv>
       <tuv lang="be" changeid="UsevaladK" changedate="20141103T135704Z" creationid="UsevaladK" creationdate="20141103T135704Z">
@@ -1159,6 +1167,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>4100</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T084534Z" creationid="anibyl" creationdate="20160526T084534Z">
+        <seg>4100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>6 месяцев</seg>
       </tuv>
       <tuv lang="be">
@@ -1176,6 +1192,14 @@
     <tu>
       <tuv lang="RU">
         <seg>=============================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>AIMP-ru.chm</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T084409Z" creationid="anibyl" creationdate="20160526T084409Z">
+        <seg>AIMP-en.chm</seg>
       </tuv>
     </tu>
     <tu>
@@ -2436,6 +2460,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Воспроизвести выбранные файлы</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T084948Z" creationid="anibyl" creationdate="20160526T084948Z">
+        <seg>Прайграць абраныя файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Воспроизвести выбранный трек</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130503T105446Z">
@@ -3272,6 +3304,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Дадаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Добавить в активный плейлист</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085018Z" creationid="anibyl" creationdate="20160526T085018Z">
+        <seg>Дадаць у актыўны плэйліст</seg>
       </tuv>
     </tu>
     <tu>
@@ -4492,6 +4532,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Импортировать плейлист</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T084919Z" creationid="anibyl" creationdate="20160526T084919Z">
+        <seg>Імпартаваць плэйліст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Импортировать плейлисты...</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20120405T190201Z">
@@ -5608,6 +5656,30 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130912T064817Z">
         <seg>Кіраўнік гукавых эфэктаў: Эквалайзэр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Менеджер звуковых эффектов: настройки сведения файлов</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T084828Z" creationid="anibyl" creationdate="20160526T084828Z">
+        <seg>Кіраўнік гукавых эфэктаў: налады зьвядзеньня файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Менеджер звуковых эффектов: нормализация громкости</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T084907Z" creationid="anibyl" creationdate="20160526T084907Z">
+        <seg>Кіраўнік гукавых эфэктаў: нармалізацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Менеджер звуковых эффектов: эквалайзер</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T084837Z" creationid="anibyl" creationdate="20160526T084837Z">
+        <seg>Кіраўнік гукавых эфэктаў: эквалайзэр</seg>
       </tuv>
     </tu>
     <tu>
@@ -8104,6 +8176,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T053412Z">
         <seg>Перамясьціць у бачную прастору</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Переместить в...</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T084624Z" creationid="anibyl" creationdate="20160526T084624Z">
+        <seg>Перамясьціць у…</seg>
       </tuv>
     </tu>
     <tu>
@@ -12012,6 +12092,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Ссылку</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T084740Z" creationid="anibyl" creationdate="20160526T084740Z">
+        <seg>Спасылку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Стандартные|Элементы скина|Пользовательские</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T053655Z">
@@ -12580,10 +12668,26 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Удалить выбранные файлы из базы данных</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085001Z" creationid="anibyl" creationdate="20160526T085001Z">
+        <seg>Выдаліць абраныя файлы з базы зьвестак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Удалить выбранные файлы с диска</seg>
       </tuv>
       <tuv lang="be">
         <seg>Выдаліць абраныя файлы з дыска</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Удалить из базы данных</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T084939Z" creationid="anibyl" creationdate="20160526T084939Z">
+        <seg>Выдаліць з базы зьвестак</seg>
       </tuv>
     </tu>
     <tu>
