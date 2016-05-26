@@ -5204,6 +5204,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Кол-во каналов</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085921Z" creationid="anibyl" creationdate="20160526T085921Z">
+        <seg>Колькасьць каналаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Кол-во потоков:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20120405T190942Z">
