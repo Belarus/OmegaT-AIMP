@@ -1086,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>- Все Слова С Большой Буквы</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103049Z" creationid="anibyl" creationdate="20160526T103049Z">
+        <seg>— Усе Словы Зь Вялікае Літары</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>- битрейт</seg>
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T102630Z" creationid="anibyl" creationdate="20160526T102630Z">
@@ -1114,6 +1122,14 @@
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T102736Z" creationid="anibyl" creationdate="20160526T102736Z">
         <seg>— час стварэньня файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- год</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103042Z" creationid="anibyl" creationdate="20160526T103042Z">
+        <seg>— год</seg>
       </tuv>
     </tu>
     <tu>
@@ -1174,6 +1190,30 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>- значение replay gain для песни</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103030Z" creationid="anibyl" creationdate="20160526T103030Z">
+        <seg>— значэньне replay gain для песьні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- извлекает расширение файла с именем A</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103203Z" creationid="anibyl" creationdate="20160526T103203Z">
+        <seg>— вымае пашырэньне файла зь імем A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- издатель</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102957Z" creationid="anibyl" creationdate="20160526T102957Z">
+        <seg>— выдавец</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>- имя родительской папки</seg>
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T102844Z" creationid="anibyl" creationdate="20160526T102844Z">
@@ -1206,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>- количество проигрываний файла</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102953Z" creationid="anibyl" creationdate="20160526T102953Z">
+        <seg>— колькасьць прайграваньняў файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>- композитор</seg>
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T102655Z" creationid="anibyl" creationdate="20160526T102655Z">
@@ -1222,10 +1270,34 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>- название песни</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103020Z" creationid="anibyl" creationdate="20160526T103020Z">
+        <seg>— назва песьні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>- номер диска</seg>
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T102709Z" creationid="anibyl" creationdate="20160526T102709Z">
         <seg>— нумар дыска</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- номер песни в альбоме</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103039Z" creationid="anibyl" creationdate="20160526T103039Z">
+        <seg>— нумар песьні ў альбоме</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- оценка</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102944Z" creationid="anibyl" creationdate="20160526T102944Z">
+        <seg>— ацэнка</seg>
       </tuv>
     </tu>
     <tu>
@@ -1262,10 +1334,42 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>- рейтинг песни</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103002Z" creationid="anibyl" creationdate="20160526T103002Z">
+        <seg>— рэйтынг песьні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- символ с кодом А</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103112Z" creationid="anibyl" creationdate="20160526T103112Z">
+        <seg>— знак з кодам А</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- слова песни</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102941Z" creationid="anibyl" creationdate="20160526T102941Z">
+        <seg>— словы песьні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>- формат файла</seg>
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T102756Z" creationid="anibyl" creationdate="20160526T102756Z">
         <seg>— фармат файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- частота дискретизации</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103015Z" creationid="anibyl" creationdate="20160526T103015Z">
+        <seg>— часьціня дыскрэтызацыі</seg>
       </tuv>
     </tu>
     <tu>
@@ -1423,7 +1527,23 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>= C, если A пустое, иначе - B</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103235Z" creationid="anibyl" creationdate="20160526T103235Z">
+        <seg>= C, калі A пусты, інакш — B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>=============================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>A - форматная строка для числа, B - число</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103140Z" creationid="anibyl" creationdate="20160526T103140Z">
+        <seg>A — фарматны лік для ліку, B — лік</seg>
       </tuv>
     </tu>
     <tu>
