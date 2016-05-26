@@ -12300,6 +12300,22 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Синхронизировать при запуске программы</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102120Z" creationid="anibyl" creationdate="20160526T102120Z">
+        <seg>Сынхранізаваць падчас запуску праграмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Синхронизировать при обнаружении изменений</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102109Z" creationid="anibyl" creationdate="20160526T102055Z">
+        <seg>Сынхранізаваць падчас выяўленьня зьменаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Система</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130130T215604Z">
@@ -12504,6 +12520,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140811T182043Z" creationid="eratyk" creationdate="20140811T182043Z">
         <seg>Слухачоў: %d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Смарт-плейлист - папки</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102027Z" creationid="anibyl" creationdate="20160526T102027Z">
+        <seg>Смарт-плэйліст — тэчкі</seg>
       </tuv>
     </tu>
     <tu>
