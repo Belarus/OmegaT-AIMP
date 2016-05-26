@@ -1094,10 +1094,90 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>- время последнего изменения файл</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102824Z" creationid="anibyl" creationdate="20160526T102824Z">
+        <seg>— час апошняга зьмяненьня файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- время последнего проигрывания файла</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102935Z" creationid="anibyl" creationdate="20160526T102935Z">
+        <seg>— час апошняга прайграваньян файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- время создания файла</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102736Z" creationid="anibyl" creationdate="20160526T102736Z">
+        <seg>— час стварэньня файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- дата последнего изменения файла</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102808Z" creationid="anibyl" creationdate="20160526T102808Z">
+        <seg>— дата апошняга зьмяненьня файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- дата последнего проигрывания файла</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102923Z" creationid="anibyl" creationdate="20160526T102923Z">
+        <seg>— дата апошняга прайграваньня файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- дата создания файла</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102729Z" creationid="anibyl" creationdate="20160526T102729Z">
+        <seg>— дата стварэньня файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- динамика песни (количество ударов в минуту)</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102645Z" creationid="anibyl" creationdate="20160526T102645Z">
+        <seg>— дынаміка песьні (колькасьць удараў на хвіліну)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- длительность (сек)</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102720Z" creationid="anibyl" creationdate="20160526T102720Z">
+        <seg>— працягласьць (с)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- жанр</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102900Z" creationid="anibyl" creationdate="20160526T102900Z">
+        <seg>— жанр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>- значение replay gain для альбома</seg>
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T102611Z" creationid="anibyl" creationdate="20160526T102611Z">
         <seg>— значэньне replay gain для альбому</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- имя родительской папки</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102844Z" creationid="anibyl" creationdate="20160526T102844Z">
+        <seg>— імя бацькоўскай тэчкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -1118,10 +1198,74 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>- количество каналов</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102651Z" creationid="anibyl" creationdate="20160526T102651Z">
+        <seg>— колькасьць каналаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- композитор</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102655Z" creationid="anibyl" creationdate="20160526T102655Z">
+        <seg>— кампазытар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>- название альбома</seg>
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T102558Z" creationid="anibyl" creationdate="20160526T102558Z">
         <seg>— назва альбому</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- номер диска</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102709Z" creationid="anibyl" creationdate="20160526T102709Z">
+        <seg>— нумар дыска</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- полное имя файла</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102833Z" creationid="anibyl" creationdate="20160526T102833Z">
+        <seg>— поўнае імя файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- полный путь к родительской папке</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102749Z" creationid="anibyl" creationdate="20160526T102749Z">
+        <seg>— поўны шлях да бацькоўскай тэчкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- порядковый номер в плейлисте</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102911Z" creationid="anibyl" creationdate="20160526T102911Z">
+        <seg>— парадкавы нумар у плэйлісьце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- размер файла (байт)</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102854Z" creationid="anibyl" creationdate="20160526T102854Z">
+        <seg>— памер файла (Б)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- формат файла</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102756Z" creationid="anibyl" creationdate="20160526T102756Z">
+        <seg>— фармат файла</seg>
       </tuv>
     </tu>
     <tu>
