@@ -2444,6 +2444,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Во время обновления</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095256Z" creationid="anibyl" creationdate="20160526T095256Z">
+        <seg>Падчас абнаўленьня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Возможно, данная клавиша уже используется другой программой</seg>
       </tuv>
       <tuv lang="be">
@@ -3132,6 +3140,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Группировка по полям</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095438Z" creationid="anibyl" creationdate="20160526T095438Z">
+        <seg>Групаваньне па палях</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Далее</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20120502T184309Z">
@@ -3812,6 +3828,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Доступные поля</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095451Z" creationid="anibyl" creationdate="20160526T095451Z">
+        <seg>Даступныя палі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Доступные функции:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T053829Z">
@@ -3824,6 +3848,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Калі працягласьць меншая за:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Если он имеет расширение:</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095345Z" creationid="anibyl" creationdate="20160526T095345Z">
+        <seg>Калі ён мае пашырэньне:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4892,6 +4924,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Искать перемещённые и/или переименованные файлы</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095318Z" creationid="anibyl" creationdate="20160526T095318Z">
+        <seg>Шукаць перамешчаныя і/ці пераназваныя файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Искать по мере набора текста</seg>
       </tuv>
       <tuv lang="be">
@@ -5016,6 +5056,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130130T222408Z">
         <seg>Карыстаныя слупкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Используемые поля</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095459Z" creationid="anibyl" creationdate="20160526T095459Z">
+        <seg>Карыстаныя палі</seg>
       </tuv>
     </tu>
     <tu>
@@ -5996,6 +6044,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Мониторинг</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095249Z" creationid="anibyl" creationdate="20160526T095249Z">
+        <seg>Магіторынг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Мэню</seg>
       </tuv>
       <tuv lang="be">
@@ -6072,6 +6128,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Націсьніце ESC, каб скасаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Нажмите кнопку "обновить", чтобы обновить содержимое базы данных фонотеки</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095418Z" creationid="anibyl" creationdate="20160526T095418Z">
+        <seg>Націсьніце кнопку «Абнавіць», каб абнавіць зьмесьціва базы зьвестак фанатэкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -6280,6 +6344,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110920T093739Z">
         <seg>Налада мовы інтэрфэйсу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Настройка...</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095507Z" creationid="anibyl" creationdate="20160526T095507Z">
+        <seg>Налада…</seg>
       </tuv>
     </tu>
     <tu>
@@ -7700,6 +7772,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Отслеживать изменения во время работы программы</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095244Z" creationid="anibyl" creationdate="20160526T095244Z">
+        <seg>Адсочваць зьмены падчас працы праграмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Отступ</seg>
       </tuv>
       <tuv lang="be" changeid="UsevaladK" changedate="20141103T140803Z" creationid="UsevaladK" creationdate="20141103T140803Z">
@@ -7832,6 +7912,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Паліца задач (толькі для Windows 7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Папка</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095422Z" creationid="anibyl" creationdate="20160526T095422Z">
+        <seg>Тэчка</seg>
       </tuv>
     </tu>
     <tu>
@@ -8980,6 +9068,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Подпапки</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095427Z" creationid="anibyl" creationdate="20160526T095427Z">
+        <seg>Падтэчкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Подсказки</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T060756Z">
@@ -10040,6 +10136,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20120516T063243Z">
         <seg>Ужыць да</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Применить к отмеченным</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095529Z" creationid="anibyl" creationdate="20160526T095529Z">
+        <seg>Ужыць да адзначаных</seg>
       </tuv>
     </tu>
     <tu>
@@ -13108,6 +13212,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Удалять несуществующие файлы из базы данных</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095335Z" creationid="anibyl" creationdate="20160526T095335Z">
+        <seg>Выдаляць няісныя файлы з базы зьвестак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Удалять плейлист при закрытии вкладки</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20120405T190910Z">
@@ -13200,6 +13312,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Кіраваньне мышшу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Управление перемещёнными файлами</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095517Z" creationid="anibyl" creationdate="20160526T095517Z">
+        <seg>Кіраваньне перамешчанымі файламі</seg>
       </tuv>
     </tu>
     <tu>
@@ -13400,6 +13520,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110117T160550Z">
         <seg>Фільтар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Фильтр данных</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095447Z" creationid="anibyl" creationdate="20160526T095447Z">
+        <seg>Фільтар зьвестак</seg>
       </tuv>
     </tu>
     <tu>
@@ -13656,6 +13784,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110117T171132Z">
         <seg>Шаблён усплывальнай палоскі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Шаблон группировки</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095432Z" creationid="anibyl" creationdate="20160526T095432Z">
+        <seg>Шаблён групаваньня</seg>
       </tuv>
     </tu>
     <tu>
