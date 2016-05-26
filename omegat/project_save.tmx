@@ -4108,6 +4108,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Загрузка данных...</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101011Z" creationid="anibyl" creationdate="20160526T101011Z">
+        <seg>Ладаваньне зьвестак…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Загрузка дополнительных компонент...</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20120502T194135Z">
@@ -4672,6 +4680,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110714T220019Z">
         <seg>Зьмяніць памер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Изменить размер...</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101038Z" creationid="anibyl" creationdate="20160526T101038Z">
+        <seg>Зьмяніць памер…</seg>
       </tuv>
     </tu>
     <tu>
@@ -5624,6 +5640,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20120415T060804Z">
         <seg>Скапіяваць у «%s»…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Копировать в %s|Переместить в %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101030Z" creationid="anibyl" creationdate="20160526T101030Z">
+        <seg>Капіяваць у %s|Перамясьціць у %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -11068,6 +11092,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Размер базы данных до: %s\nРазмер базы данных после: %s\nСэкономлено: %s.</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101000Z" creationid="anibyl" creationdate="20160526T101000Z">
+        <seg>Памер базы зьвестак да: %s\nПамер базы зьвестак пасьля: %s\nЗэканомлена: %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Размер буфера в полноэкранном режиме:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110714T221422Z">
@@ -11432,6 +11464,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Разьмяшчэньне файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Расположение файла...</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101018Z" creationid="anibyl" creationdate="20160526T101018Z">
+        <seg>Разьмяшчэньне файла…</seg>
       </tuv>
     </tu>
     <tu>
@@ -13888,6 +13928,14 @@
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T100407Z" creationid="anibyl" creationdate="20160526T100407Z">
         <seg>Файлы: даслаць у</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Физическое удаление файлов|Не удалось удалить следующие файлы:</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100831Z" creationid="anibyl" creationdate="20160526T100831Z">
+        <seg>Фізычнае выдаленьне файлаў|Не атрымалася выдаліць наступныя файлы</seg>
       </tuv>
     </tu>
     <tu>
