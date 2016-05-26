@@ -5820,6 +5820,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Локальные файлы</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100641Z" creationid="anibyl" creationdate="20160526T100641Z">
+        <seg>Лякальныя файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Лупа</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130503T171820Z">
@@ -8948,10 +8956,34 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Плеер: визуализации</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100519Z" creationid="anibyl" creationdate="20160526T100519Z">
+        <seg>Прайгравальнік: візуалізацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Плеер: навигация</seg>
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T100449Z" creationid="anibyl" creationdate="20160526T100438Z">
         <seg>Прайгравальнік: навігацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Плеер: проигрываемый файл</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100501Z" creationid="anibyl" creationdate="20160526T100501Z">
+        <seg>Прайгравальнік: прайграваны файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Плеер: управление воспроизведением</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100508Z" creationid="anibyl" creationdate="20160526T100508Z">
+        <seg>Прайгравальнік: кіраваньне прайграваньнем</seg>
       </tuv>
     </tu>
     <tu>
@@ -9008,6 +9040,46 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130130T211828Z">
         <seg>Плэйліст: Выдаленьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Плейлист: выбранные файлы</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100547Z" creationid="anibyl" creationdate="20160526T100547Z">
+        <seg>Плэйліст: абраныя файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Плейлист: добавление файлов</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100525Z" creationid="anibyl" creationdate="20160526T100525Z">
+        <seg>Плэйліст: даданьне файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Плейлист: поиск</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100542Z" creationid="anibyl" creationdate="20160526T100542Z">
+        <seg>Плэйліст: пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Плейлист: сортировка</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100551Z" creationid="anibyl" creationdate="20160526T100551Z">
+        <seg>Плэйліст: сартаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Плейлист: удаление файлов</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100537Z" creationid="anibyl" creationdate="20160526T100537Z">
+        <seg>Плэйліст: выдаленьне файлаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -9404,6 +9476,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Поиск файлов...</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100714Z" creationid="anibyl" creationdate="20160526T100714Z">
+        <seg>Пошук файлаў…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Поиск файлов:</seg>
       </tuv>
       <tuv lang="be">
@@ -9768,6 +9848,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Карыстальнік:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Пользовательская настройка</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100606Z" creationid="anibyl" creationdate="20160526T100606Z">
+        <seg>Карыстальніцкія налады</seg>
       </tuv>
     </tu>
     <tu>
@@ -13088,6 +13176,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20120405T190841Z">
         <seg>Толькі для Windows 7 і вышэй.\nВокладка таксама павінна падтрымліваць размыцьцё.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Только чтение|Присоединен к прообразу</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T100741Z" creationid="anibyl" creationdate="20160526T100741Z">
+        <seg>Толькі чытаньне|Падлучаны да правобразу</seg>
       </tuv>
     </tu>
     <tu>
