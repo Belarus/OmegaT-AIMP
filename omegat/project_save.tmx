@@ -1660,6 +1660,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Автоматически добавлять файл в базу</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101657Z" creationid="anibyl" creationdate="20160526T101657Z">
+        <seg>Самарушна дадаваць файл ў базу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Автоматически добавлять файлы в БД</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130130T221100Z">
@@ -3080,6 +3088,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Галоўнае мэню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Главное окно на передний план</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101629Z" creationid="anibyl" creationdate="20160526T101629Z">
+        <seg>Галоўнае выкно на пярэдні плян</seg>
       </tuv>
     </tu>
     <tu>
@@ -4900,6 +4916,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Интернет-радио</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101413Z" creationid="anibyl" creationdate="20160526T101413Z">
+        <seg>Сеціўнае радыё</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Интерфейс</seg>
       </tuv>
       <tuv lang="be">
@@ -5504,6 +5528,14 @@
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T095050Z" creationid="anibyl" creationdate="20160526T095050Z">
         <seg>К-сьць файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Количество попыток восстановить соединение при обрыве связи:</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101533Z" creationid="anibyl" creationdate="20160526T101533Z">
+        <seg>Колькасьць спроб аднавіць злучэньне пры абрыве сувязі:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6232,6 +6264,14 @@
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T095249Z" creationid="anibyl" creationdate="20160526T095249Z">
         <seg>Магіторынг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Мониторинг файлов...</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101641Z" creationid="anibyl" creationdate="20160526T101641Z">
+        <seg>Маніторынг файлаў…</seg>
       </tuv>
     </tu>
     <tu>
@@ -7280,6 +7320,14 @@
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T100400Z" creationid="anibyl" creationdate="20160526T100400Z">
         <seg>Агульнае: дыялёгі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Общие настройки</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101419Z" creationid="anibyl" creationdate="20160526T101419Z">
+        <seg>Агульныя налады</seg>
       </tuv>
     </tu>
     <tu>
@@ -9652,6 +9700,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Показать/скрыть главное окно</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101614Z" creationid="anibyl" creationdate="20160526T101614Z">
+        <seg>Паказаць/схаваць галоўнае вакно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Показать/скрыть плейлист</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130130T220928Z">
@@ -9744,6 +9800,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Паказваць інфармацыю аб дзейным трэку на паліцы задач</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Показывать информацию о текущем файле на панели задач</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101558Z" creationid="anibyl" creationdate="20160526T101558Z">
+        <seg>Паказваць інфармацыю аб дзейным файле на паліцы задач</seg>
       </tuv>
     </tu>
     <tu>
@@ -10288,6 +10352,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110117T155517Z">
         <seg>Перарваць?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>При выставлении оценки</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101711Z" creationid="anibyl" creationdate="20160526T101711Z">
+        <seg>Падчас выстаўленьня ацэнкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -11168,6 +11240,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110714T221422Z">
         <seg>Памер кішэні ў поўнаэкранным рэжыме:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Размер буфера для фоновой записи:</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101441Z" creationid="anibyl" creationdate="20160526T101441Z">
+        <seg>Памер кішэні для фонавага запісу:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12200,6 +12280,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Праглядаць абраныя: вызначаць альбом па тэгах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Скачать дополнительные обложки</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101546Z" creationid="anibyl" creationdate="20160526T101546Z">
+        <seg>Зладаваць дадатковыя вокладкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -13720,6 +13808,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Выдаляць цішыню, большую за 0,5 сэкунды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Удалять файлы, длительность которых меньше:</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101459Z" creationid="anibyl" creationdate="20160526T101459Z">
+        <seg>Выдаляць файлы, працягласьць якіх менш за:</seg>
       </tuv>
     </tu>
     <tu>
