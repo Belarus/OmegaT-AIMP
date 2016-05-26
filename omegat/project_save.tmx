@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>(не задано)</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095009Z" creationid="anibyl" creationdate="20160526T095009Z">
+        <seg>(не зададзена)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>(нет данных для отображения)</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130130T204159Z">
@@ -954,6 +962,14 @@
       </tuv>
       <tuv lang="be">
         <seg>(выключана)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>(показать все)</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095033Z" creationid="anibyl" creationdate="20160526T095033Z">
+        <seg>(паказаць усе)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1752,6 +1768,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140811T180956Z" creationid="eratyk" creationdate="20140811T180956Z">
         <seg>Упаўнаважыцца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Авторские права</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T094944Z" creationid="anibyl" creationdate="20160526T094944Z">
+        <seg>Аўтарскія правы</seg>
       </tuv>
     </tu>
     <tu>
@@ -5012,6 +5036,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>История проигрываний</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095018Z" creationid="anibyl" creationdate="20160526T095018Z">
+        <seg>Гісторыя прайграваньняў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Источник: Альбом</seg>
       </tuv>
       <tuv lang="be">
@@ -5188,6 +5220,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Кол-во альбомов:</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095046Z" creationid="anibyl" creationdate="20160526T095046Z">
+        <seg>К-сьць альбомаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Кол-во жанров</seg>
       </tuv>
       <tuv lang="be">
@@ -5196,9 +5236,25 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Кол-во жанров:</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095054Z" creationid="anibyl" creationdate="20160526T095054Z">
+        <seg>К-сьць жанраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Кол-во исполнителей</seg>
       </tuv>
       <tuv lang="be">
+        <seg>К-сьць выканаўцаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Кол-во исполнителей:</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095048Z" creationid="anibyl" creationdate="20160526T095048Z">
         <seg>К-сьць выканаўцаў</seg>
       </tuv>
     </tu>
@@ -5248,6 +5304,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Колькасьць файлаў, пасьля прайграваньня якіх выконваецца дзеяньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Кол-во файлов:</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095050Z" creationid="anibyl" creationdate="20160526T095050Z">
+        <seg>К-сьць файлаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -5612,6 +5676,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Любимые альбомы (Топ %d)</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095104Z" creationid="anibyl" creationdate="20160526T095104Z">
+        <seg>Упадабаныя альбомы (Топ %d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Любимые жанры</seg>
       </tuv>
       <tuv lang="be">
@@ -5620,10 +5692,34 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Любимые жанры (Топ %d)</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095137Z" creationid="anibyl" creationdate="20160526T095137Z">
+        <seg>Упадабаныя жанры (Топ %d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Любимые исполнители</seg>
       </tuv>
       <tuv lang="be">
         <seg>Упадабаныя выканаўцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Любимые исполнители (Топ %d)</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095125Z" creationid="anibyl" creationdate="20160526T095125Z">
+        <seg>Упадабаныя выканаўцы (Топ %d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Любимые песни (Топ %d)</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095150Z" creationid="anibyl" creationdate="20160526T095150Z">
+        <seg>Упадабаныя песьні (Топ %d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6544,6 +6640,14 @@
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T085542Z">
         <seg>Новая пазнака</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Новая метка...</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095027Z" creationid="anibyl" creationdate="20160526T095027Z">
+        <seg>Новая пазнака…</seg>
       </tuv>
     </tu>
     <tu>
@@ -8980,6 +9084,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Поиск изменений при запуске программы</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095226Z" creationid="anibyl" creationdate="20160526T095226Z">
+        <seg>Пошук зьменаў пры запуску праграмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Поиск новых файлов</seg>
       </tuv>
       <tuv lang="be">
@@ -9432,6 +9544,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130119T181652Z">
         <seg>Пасьля зьменаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Последнее проигрывание</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T094957Z" creationid="anibyl" creationdate="20160526T094957Z">
+        <seg>Апошняе прайграваньне</seg>
       </tuv>
     </tu>
     <tu>
@@ -10328,6 +10448,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Прапусьціць усё</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Прослушано</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095157Z" creationid="anibyl" creationdate="20160526T095157Z">
+        <seg>Праслухана</seg>
       </tuv>
     </tu>
     <tu>
@@ -13312,6 +13440,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Фанатэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Фонотека - мониторинг файлов</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095210Z" creationid="anibyl" creationdate="20160526T095210Z">
+        <seg>Фанатэка — маніторынг файлаў</seg>
       </tuv>
     </tu>
     <tu>
