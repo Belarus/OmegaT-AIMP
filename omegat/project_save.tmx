@@ -1086,6 +1086,46 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>- битрейт</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102630Z" creationid="anibyl" creationdate="20160526T102630Z">
+        <seg>— бітрэйт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- значение replay gain для альбома</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102611Z" creationid="anibyl" creationdate="20160526T102611Z">
+        <seg>— значэньне replay gain для альбому</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- исполнитель</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102622Z" creationid="anibyl" creationdate="20160526T102622Z">
+        <seg>—выканаўца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- исполнитель альбома</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102618Z" creationid="anibyl" creationdate="20160526T102618Z">
+        <seg>— выканаўца альбому</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- название альбома</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102558Z" creationid="anibyl" creationdate="20160526T102558Z">
+        <seg>— назва альбому</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>00000100010010100000010018006803000016000000280000001000000020000000010018000000000040030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001032E0163BE5163BE51637DF1536DC1433D91430D5122DD1122DD11029CF0E27C90D22C60B20C2091CBF0719BE0B10A4153EEB2F60FF3666FF3666FF3566FF2F60FF2E5EFF2758FF2152FF1A4CFF1448FF1640EF0A3FFA0A3FFA1032E00416BE1640EF3B6CFF4372FF4271FF3E6EFF3A6CFF3566FF2E5EFF2859FF2152FF1A4EFF1448FF1446FF0D40FF073BFF0417C00D42FF326BFF3C73FF3B72FF326BFF2B65FF2B65FF245DFF1C58FF1550FF0F4AFF0844FF023EFF003AFF003AFF0416CF1430D51430D51430D51430D51430D51430D51430D51430D51430D51430D51430D51430D51430D51430D5122DD10B10A4B5682ACF812AD5872AD5872AD5872AD5872AD5872AD5872AD5872ACF812ACB7E2AC6792AC2752ABB6E2AAF6024883D29CE6C06EA8300F38C00F78E00FA9100FA9300F99100F38C00EF8800EA8300E98000E27A00DD7400D97200CE6B06AD4804CE6C06EA8300F28A00F78E00FA9300FD9600F99100F38C00EF8800EA8300E67E00E27A00DD7400D97200CE6B06AD4804CF812AE49837E99C37EDA038F5A838F5A838F5A838E99C37E99C37E49837DE9135D5872AD5872AD5872ACB7E2AAF6024B6B6B6E9EFF7EEF5FCF2F8FFF5FBFFF4FAFFF4FAFFF0F6FEEEF5FCE9EFF7E4EBF2DEE4EBDEE4EBD4DBE1CBCFD6929292CBCFD6E9EFF7EEF5FCF2F8FFF4FAFFF5FBFFF4FAFFF2F8FFEEF5FCE9EFF7E4EBF2DEE4EBDEE4EBD8DEE5CBCFD6A9AEB3CFCFCFEBEBEBF2F2F2F6F6F6FAFAFAFBFBFBFAFAFAF4F4F4F1F1F1EBEBEBE9E9E9E3E3E3DEDEDED9D9D9D2D2D2B0B0B0CFCFCFE9E9E9EEEEEEF1F1F1F3F3F3F6F6F6F3F3F3EEEEEEEAEAEAE9E9E9E3E3E3DEDEDED9D9D9D2D2D2CCCCCCB0B0B0C9C9C9D2D2D2CFCFCFCFCFCFCFCFCFCFCFCFCCCCCCC8C8C8C5C5C5C4C4C4C1C1C1BCBCBCBCBCBCB8B8B8B3B3B3AAAAAA000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FFFF00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FFFF0000</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110714T211014Z">
@@ -2444,6 +2484,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Включить будильник</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102532Z" creationid="anibyl" creationdate="20160526T102532Z">
+        <seg>Уключыць будзільнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Включить визуализацию</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T051914Z">
@@ -2456,6 +2504,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140811T181727Z" creationid="eratyk" creationdate="20140811T181727Z">
         <seg>Уключыць скроблінг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Включить таймер сна</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102522Z" creationid="anibyl" creationdate="20160526T102522Z">
+        <seg>Уключыць таймэр сну</seg>
       </tuv>
     </tu>
     <tu>
@@ -6028,6 +6084,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Масштаб:</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102452Z" creationid="anibyl" creationdate="20160526T102452Z">
+        <seg>Маштаб:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Масштабирование</seg>
       </tuv>
       <tuv lang="be">
@@ -7092,6 +7156,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Номер в очереди</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102545Z" creationid="anibyl" creationdate="20160526T102545Z">
+        <seg>Нумар у чарзе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Номер кадра:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T055128Z">
@@ -7288,6 +7360,14 @@
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T085147Z" creationid="anibyl" creationdate="20160526T085147Z">
         <seg>Адваротны адлік часу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Обрезать</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102446Z" creationid="anibyl" creationdate="20160526T102446Z">
+        <seg>Абрэзаць</seg>
       </tuv>
     </tu>
     <tu>
@@ -9032,6 +9112,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Плаўнае павелічэньне гучнасьці цягам:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Плавное уменьшение громкости в течение:</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102514Z" creationid="anibyl" creationdate="20160526T102514Z">
+        <seg>Плаўнае зьмяншэньне гучнасьці цягам:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10988,6 +11076,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Прообраз - источник данных для плейлиста (папка, фонотека и др.)\n\nЧтобы синхронизироваться с прообразом, нажмите кнопку "перечитать данные из прообраза" в меню плейлиста "разное". Некоторые типы прообразов поддерживают автоматическую синхронизацию.</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102357Z" creationid="anibyl" creationdate="20160526T102357Z">
+        <seg>Правобраз — крыніца зьвестак для плэйлісту (тэчка,фанатэка і іншае).\n\nКаб ссынхранізавацца з правобразам, націсьніце кнопку «Перачытаць зьвесткі з правобразу» у мэню плэйлісту «Рознае». Некаторыя тыпы правобразаў падтрымліваюць самарушную сынхранізацыю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Прообраз - плейлист или папка, являющийся источником данных для плейлиста. Чтобы синхронизироваться с прообразом, нажмите кнопку "Перечитать данные из прообраза".\n\n[!] Синхронизация выполняется только в одну сторону: Прообраз -&gt; Плейлист.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130912T072643Z">
@@ -11760,6 +11856,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T060108Z">
         <seg>Рэдагаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Редактирование обложки альбома</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102442Z" creationid="anibyl" creationdate="20160526T102442Z">
+        <seg>Рэдагаваньне вокладкі альбому</seg>
       </tuv>
     </tu>
     <tu>
@@ -12740,6 +12844,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Сортировать файлы после добавления в плейлист по шаблону:</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102430Z" creationid="anibyl" creationdate="20160526T102430Z">
+        <seg>Сартаваць файлы пасьля даданьня ў плэйліст па шаблёне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Сортировка</seg>
       </tuv>
       <tuv lang="be">
@@ -13344,6 +13456,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Сэрвэр:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Таймер сна</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102536Z" creationid="anibyl" creationdate="20160526T102536Z">
+        <seg>Таймэр сну</seg>
       </tuv>
     </tu>
     <tu>
