@@ -2308,6 +2308,30 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Вид: карточки</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085332Z" creationid="anibyl" creationdate="20160526T085332Z">
+        <seg>Выгляд: карткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Вид: миниатюры</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085319Z" creationid="anibyl" creationdate="20160526T085319Z">
+        <seg>Выгляд: мініятуры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Вид: таблица</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085326Z" creationid="anibyl" creationdate="20160526T085326Z">
+        <seg>Выгляд: табліца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Визуализация</seg>
       </tuv>
       <tuv lang="be">
@@ -3544,6 +3568,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T060448Z">
         <seg>Дадаць шрыфт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Добавить...</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085214Z" creationid="anibyl" creationdate="20160526T085214Z">
+        <seg>Дадаць…</seg>
       </tuv>
     </tu>
     <tu>
@@ -5972,6 +6004,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Найти в фонотеке</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085115Z" creationid="anibyl" creationdate="20160526T085115Z">
+        <seg>Знайьсці ў фанатэцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Найти:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130130T204217Z">
@@ -6756,6 +6796,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Обновить...</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085208Z" creationid="anibyl" creationdate="20160526T085208Z">
+        <seg>Абнавіць…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Обновление файлов...</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20120502T190110Z">
@@ -6768,6 +6816,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20120415T061634Z">
         <seg>Абнаўленьне…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Обратный отсчет времени</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085147Z" creationid="anibyl" creationdate="20160526T085147Z">
+        <seg>Адваротны адлік часу</seg>
       </tuv>
     </tu>
     <tu>
@@ -8236,6 +8292,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Перемещённые файлы...</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085046Z" creationid="anibyl" creationdate="20160526T085046Z">
+        <seg>Перамешчаныя файлы…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Перенести файлы из старой версии базы данных</seg>
       </tuv>
       <tuv lang="be">
@@ -8312,6 +8376,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Перачытаць тэгі ўсіх файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Перечитать теги у выбранных файлов</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085035Z" creationid="anibyl" creationdate="20160526T085035Z">
+        <seg>Перачытаць тэгі ў выбраных файлаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -11516,6 +11588,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Следующий плейлист</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085125Z" creationid="anibyl" creationdate="20160526T085125Z">
+        <seg>Наступны плэйліст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Следующий трек</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110117T164651Z">
@@ -11552,6 +11632,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130503T105352Z">
         <seg>Выпадковы трэк (укл/выкл)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Случайный файл</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085058Z" creationid="anibyl" creationdate="20160526T085058Z">
+        <seg>Выпадковы файл</seg>
       </tuv>
     </tu>
     <tu>
@@ -11728,6 +11816,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T060906Z">
         <seg>Сварыць акно эквалайзэру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Создать смарт-плейлист</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085201Z" creationid="anibyl" creationdate="20160526T085201Z">
+        <seg>Стварыць смарт-плэйліст</seg>
       </tuv>
     </tu>
     <tu>
@@ -13512,6 +13608,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130912T072739Z">
         <seg>Экспартаваць у тэчку…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Экспорт плейлиста</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085138Z" creationid="anibyl" creationdate="20160526T085138Z">
+        <seg>Экспарт плэйлісту</seg>
       </tuv>
     </tu>
     <tu>
