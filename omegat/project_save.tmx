@@ -2980,6 +2980,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Главное меню - фонотека</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085356Z" creationid="anibyl" creationdate="20160526T085356Z">
+        <seg>Галоўнае мэню — фанатэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Главное мэню</seg>
       </tuv>
       <tuv lang="be">
@@ -4870,16 +4878,16 @@
       <tuv lang="RU">
         <seg>Исключить все метки</seg>
       </tuv>
-      <tuv lang="be">
-        <seg>Выключыць усе цэтлікі</seg>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085558Z">
+        <seg>Выключыць усе пазнакі</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>Исключить метку</seg>
       </tuv>
-      <tuv lang="be">
-        <seg>Выключыць цэтлік</seg>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085552Z">
+        <seg>Выключыць пазнаку</seg>
       </tuv>
     </tu>
     <tu>
@@ -5788,6 +5796,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Меню управления метками</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085458Z" creationid="anibyl" creationdate="20160526T085458Z">
+        <seg>Мэню кіраваньня пазнакамі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Месяц</seg>
       </tuv>
       <tuv lang="be">
@@ -5798,16 +5814,16 @@
       <tuv lang="RU">
         <seg>Метки</seg>
       </tuv>
-      <tuv lang="be">
-        <seg>Цэтлікі</seg>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085513Z">
+        <seg>Пазнакі</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>Метки...</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20120415T061656Z">
-        <seg>Цэтлікі…</seg>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085526Z">
+        <seg>Пазнакі…</seg>
       </tuv>
     </tu>
     <tu>
@@ -5990,8 +6006,8 @@
       <tuv lang="RU">
         <seg>Назначить метку</seg>
       </tuv>
-      <tuv lang="be">
-        <seg>Прызначыць цэтлік</seg>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085535Z">
+        <seg>Пазначыць</seg>
       </tuv>
     </tu>
     <tu>
@@ -6518,8 +6534,8 @@
       <tuv lang="RU">
         <seg>Новая метка</seg>
       </tuv>
-      <tuv lang="be">
-        <seg>Новы цэтлік</seg>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085542Z">
+        <seg>Новая пазнака</seg>
       </tuv>
     </tu>
     <tu>
@@ -6600,6 +6616,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T053323Z">
         <seg>Новы пункт: тэкстура</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Новый смарт-плейлист</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085343Z" creationid="anibyl" creationdate="20160526T085343Z">
+        <seg>Новы смарт-плэйліст</seg>
       </tuv>
     </tu>
     <tu>
@@ -7536,6 +7560,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110714T211639Z">
         <seg>Даслаць у іншы плэйліст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Отправить в плейлист</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085630Z" creationid="anibyl" creationdate="20160526T085630Z">
+        <seg>Даслаць у плэйліст</seg>
       </tuv>
     </tu>
     <tu>
@@ -9480,6 +9512,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130130T211606Z">
         <seg>Перадвызначэньні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Преднастройки дерева группировки</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T085417Z" creationid="anibyl" creationdate="20160526T085417Z">
+        <seg>Перадвызначэньні дрэва групаваньня</seg>
       </tuv>
     </tu>
     <tu>
