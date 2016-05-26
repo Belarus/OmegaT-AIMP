@@ -7372,6 +7372,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Объединять пустые уровни группировки, когда это возможно</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101922Z" creationid="anibyl" creationdate="20160526T101922Z">
+        <seg>Аб’ядноўваць пустыя ўзроўні групаваньня, калі гэта магчыма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Объект не может изменять размеры</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T054226Z">
@@ -9932,6 +9940,22 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Показывать рейтинг вместо оценки, если оценка не задана</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101822Z" creationid="anibyl" creationdate="20160526T101822Z">
+        <seg>Паказваць рэйтынг замест ацэнкі, калі ацэнка не зададзеная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Показывать содержимое папок вместе с подпапками</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101900Z" creationid="anibyl" creationdate="20160526T101900Z">
+        <seg>Паказваць зьмесьціва тэчак разам з падтэчкамі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Показывать статус плеера в трей-иконке</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110920T100250Z">
@@ -10396,6 +10420,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>При зачете прослушивания</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101738Z" creationid="anibyl" creationdate="20160526T101738Z">
+        <seg>Падчас заліку праслухованьня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>При окончании воспроизведения плейлиста</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110117T173332Z">
@@ -10488,6 +10520,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Падчас старту прайграваньня паказваць інфармацыю аб дзейным файле</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>При старте проигрывания</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101724Z" creationid="anibyl" creationdate="20160526T101724Z">
+        <seg>Падчас старту прайграваньня</seg>
       </tuv>
     </tu>
     <tu>
@@ -11636,6 +11676,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Рассчитывать рейтинг на основе статистики за последние:</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T102010Z" creationid="anibyl" creationdate="20160526T102010Z">
+        <seg>Разьлічваць рэйтынг на аснове статыстыкі за апошнія:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Растягивать</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T055133Z">
@@ -12240,6 +12288,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20120405T211602Z">
         <seg>Моцны сьціск</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Синхронизировать оценку с тегами файла</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101842Z" creationid="anibyl" creationdate="20160526T101842Z">
+        <seg>Сынхранізаваць ацэнку з тэгамі файла</seg>
       </tuv>
     </tu>
     <tu>
@@ -13136,6 +13192,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110117T172331Z">
         <seg>Лічыць файл праслуханым пасьля прайграваньня:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Считать файл прослушанным после проигрывания:\nно не более 4-х минут</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T101948Z" creationid="anibyl" creationdate="20160526T101948Z">
+        <seg>Лічыць файл праслуханым пасьля прайграваньня:\nале ня больш за 4 хвіліны</seg>
       </tuv>
     </tu>
     <tu>
