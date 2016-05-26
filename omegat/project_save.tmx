@@ -1094,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>- ВСЁ БОЛЬШИМИ БУКВАМИ</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T103546Z" creationid="anibyl" creationdate="20160526T103546Z">
+        <seg>— УСЁ ВЯЛІКІМІ ЛІТАРАМІ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>- Все Слова С Большой Буквы</seg>
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T103049Z" creationid="anibyl" creationdate="20160526T103049Z">
