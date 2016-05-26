@@ -3476,6 +3476,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Добавить группу</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095729Z" creationid="anibyl" creationdate="20160526T095729Z">
+        <seg>Дадаць групу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Добавить закладку</seg>
       </tuv>
       <tuv lang="be">
@@ -3520,6 +3528,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Дадаць плэйліст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Добавить правило</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095726Z" creationid="anibyl" creationdate="20160526T095726Z">
+        <seg>Дадаць правіла</seg>
       </tuv>
     </tu>
     <tu>
@@ -4144,6 +4160,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Замяніць адзначаныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Заменить путь к файлу...</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095604Z" creationid="anibyl" creationdate="20160526T095604Z">
+        <seg>Замяніць шлях да файла…</seg>
       </tuv>
     </tu>
     <tu>
@@ -5772,6 +5796,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Максимальное кол-во объектов:</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095714Z" creationid="anibyl" creationdate="20160526T095714Z">
+        <seg>Максымальная к-сьць аб’ектаў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Максимальное число потоков определяется количеством ядер ЦП.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140811T170614Z" creationid="eratyk" creationdate="20140811T170614Z">
@@ -6172,6 +6204,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Назначить всем файлам</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095623Z" creationid="anibyl" creationdate="20160526T095623Z">
+        <seg>Прызначыць усім файлам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Назначить метку</seg>
       </tuv>
       <tuv lang="be" changeid="anibyl" changedate="20160526T085535Z">
@@ -6336,6 +6376,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130503T171219Z">
         <seg>Наладжваньне сувязяў…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Настройка фильтра</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095650Z" creationid="anibyl" creationdate="20160526T095650Z">
+        <seg>Налады фільтру</seg>
       </tuv>
     </tu>
     <tu>
@@ -7576,6 +7624,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Скасаваць усе фільтры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Отменить: назначить всем файлам</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095638Z" creationid="anibyl" creationdate="20160526T095638Z">
+        <seg>Скасаваць: прызначыць усім файлам</seg>
       </tuv>
     </tu>
     <tu>
@@ -9712,6 +9768,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110117T161910Z">
         <seg>Зьяўленьне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Правила выборки данных</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095700Z" creationid="anibyl" creationdate="20160526T095700Z">
+        <seg>Правілы выбаркі зьвестак</seg>
       </tuv>
     </tu>
     <tu>
@@ -11940,6 +12004,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Смарт-плейлист - фонотека</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095824Z" creationid="anibyl" creationdate="20160526T095824Z">
+        <seg>Смарт-плэйліст — фанатэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Смена визуализаций</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130505T061445Z">
@@ -12196,6 +12268,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Сортировка:</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095721Z" creationid="anibyl" creationdate="20160526T095721Z">
+        <seg>Сартаваньне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Сортировка: инвертировать</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20120415T060031Z">
@@ -12360,6 +12440,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Захоўваць стан плэера падчас навігацыі па плэйлісьце з дапамогай кнопак "наступны / папярэдні файл"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Сохранять структуру папок</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095840Z" creationid="anibyl" creationdate="20160526T095840Z">
+        <seg>Захоўваць структуру тэчак</seg>
       </tuv>
     </tu>
     <tu>
@@ -12536,6 +12624,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140811T170601Z" creationid="eratyk" creationdate="20140811T170601Z">
         <seg>Стан:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Степень соответствия</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095613Z" creationid="anibyl" creationdate="20160526T095613Z">
+        <seg>Ступень адпаведнасьці</seg>
       </tuv>
     </tu>
     <tu>
@@ -13016,6 +13112,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Выдаліць абраныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Удалить выбранные из БД</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095550Z" creationid="anibyl" creationdate="20160526T095542Z">
+        <seg>Выдалціь абраныя з базы</seg>
       </tuv>
     </tu>
     <tu>
@@ -14092,6 +14196,22 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>больше</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095753Z" creationid="anibyl" creationdate="20160526T095753Z">
+        <seg>больш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>больше или равно</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095758Z" creationid="anibyl" creationdate="20160526T095758Z">
+        <seg>больш ці роўна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>все маленькими буквами</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130130T211639Z">
@@ -14132,6 +14252,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>заканчивается на</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095813Z" creationid="anibyl" creationdate="20160526T095813Z">
+        <seg>канчаецца на</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>к левому краю экрана|к правому краю экрана|к верхнему краю экрана|к нижнему краю экрана</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20130118T135211Z">
@@ -14140,10 +14268,58 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>между</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095744Z" creationid="anibyl" creationdate="20160526T095744Z">
+        <seg>паміж</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>меньше</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095746Z" creationid="anibyl" creationdate="20160526T095746Z">
+        <seg>менш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>меньше или равно</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095751Z" creationid="anibyl" creationdate="20160526T095751Z">
+        <seg>менш ці роўна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>начинается с</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095805Z" creationid="anibyl" creationdate="20160526T095805Z">
+        <seg>пачынаецца з</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>не равно</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095741Z" creationid="anibyl" creationdate="20160526T095741Z">
+        <seg>ня роўна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>пкс.</seg>
       </tuv>
       <tuv lang="be" changeid="UsevaladK" changedate="20141103T140820Z" creationid="UsevaladK" creationdate="20141103T140820Z">
         <seg>пкс.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>равно</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095735Z" creationid="anibyl" creationdate="20160526T095735Z">
+        <seg>роўна</seg>
       </tuv>
     </tu>
     <tu>
@@ -14160,6 +14336,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20110117T161617Z">
         <seg>сэк.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>содержит</seg>
+      </tuv>
+      <tuv lang="be" changeid="anibyl" changedate="20160526T095801Z" creationid="anibyl" creationdate="20160526T095801Z">
+        <seg>утрымлівае</seg>
       </tuv>
     </tu>
     <tu>
